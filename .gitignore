@@ -1,0 +1,35 @@
+# 本機完整詞庫（含授權受限的 csld/NAER 擴充）— 不公開散布
+references/taiwanizer_dict.full.local.json
+
+# 第三方原始下載檔（授權受限 + 體積大）— 由 ingest_*.py 本機自取
+references/sources/
+
+# 詞庫備份
+references/taiwanizer_dict.json.pre-*
+references/*.local.json
+
+# 執行期狀態（旗標 / 模式 / 回饋日誌）
+*.flag
+*.level
+references/_review_log.jsonl
+
+# 暫存 / 報告 / 快取
+__pycache__/
+*.pyc
+*.tmp
+_*.txt
+_*.json
+_*.jsonl
+_*.png
+_*.log
+
+# 審計/測試暫存產物
+police_in.txt
+police_out.json
+police_report.txt
+selfmap_check.txt
+scripts/validate_*.py
+scripts/validate_report.json
+
+# build 產物
+*.skill

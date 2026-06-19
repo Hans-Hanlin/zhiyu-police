@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 貢獻指南 Contributing
+    url: https://github.com/Hans-Hanlin/taiwanizer/blob/main/CONTRIBUTING.md
+    about: 送 PR 前先看這裡（四級判定原則、詞庫結構、請勿 PR 授權受限資料）

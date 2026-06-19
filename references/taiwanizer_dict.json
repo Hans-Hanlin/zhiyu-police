@@ -1,0 +1,12172 @@
+{
+  "_meta": {
+    "desc": "支語警察公開詞庫（僅含可再散布來源）。完整學術/csld 擴充請本機跑 ingest_*.py。",
+    "license_note": {
+      "csld / csld3": "g0v 萌典兩岸詞典 — CC BY-NC-ND 4.0（禁改作/商用，不可公開散布衍生）",
+      "naer / naer-dom / naer-sci": "國教院樂詞網 — 政府資料授權未逐項確認，保守不散布"
+    },
+    "version": "public-2026-06-19"
+  },
+  "hard": [
+    {
+      "zh": "軟件",
+      "tw": [
+        "軟體"
+      ],
+      "note": "software"
+    },
+    {
+      "zh": "硬件",
+      "tw": [
+        "硬體"
+      ],
+      "note": "hardware"
+    },
+    {
+      "zh": "視頻",
+      "tw": [
+        "影片"
+      ],
+      "note": "台灣『視訊』指視訊通話，不等於影片"
+    },
+    {
+      "zh": "音頻",
+      "tw": [
+        "音訊"
+      ],
+      "note": "audio"
+    },
+    {
+      "zh": "屏幕",
+      "tw": [
+        "螢幕"
+      ],
+      "note": "screen"
+    },
+    {
+      "zh": "分辨率",
+      "tw": [
+        "解析度"
+      ],
+      "note": "resolution"
+    },
+    {
+      "zh": "高清",
+      "tw": [
+        "高畫質"
+      ],
+      "note": "HD"
+    },
+    {
+      "zh": "內存",
+      "tw": [
+        "記憶體"
+      ],
+      "note": "memory/RAM"
+    },
+    {
+      "zh": "硬盤",
+      "tw": [
+        "硬碟"
+      ],
+      "note": "hard disk"
+    },
+    {
+      "zh": "鼠標",
+      "tw": [
+        "滑鼠"
+      ],
+      "note": "mouse"
+    },
+    {
+      "zh": "互聯網",
+      "tw": [
+        "網際網路",
+        "網路"
+      ],
+      "note": "Internet"
+    },
+    {
+      "zh": "鏈接",
+      "tw": [
+        "連結"
+      ],
+      "note": "link"
+    },
+    {
+      "zh": "鏈路",
+      "tw": [
+        "連線",
+        "鏈路"
+      ],
+      "note": "link path"
+    },
+    {
+      "zh": "默認",
+      "tw": [
+        "預設"
+      ],
+      "note": "default"
+    },
+    {
+      "zh": "激活",
+      "tw": [
+        "啟用",
+        "啟動"
+      ],
+      "note": "activate"
+    },
+    {
+      "zh": "緩存",
+      "tw": [
+        "快取"
+      ],
+      "note": "cache"
+    },
+    {
+      "zh": "調用",
+      "tw": [
+        "呼叫"
+      ],
+      "note": "call (function)"
+    },
+    {
+      "zh": "調試",
+      "tw": [
+        "除錯",
+        "偵錯"
+      ],
+      "note": "debug"
+    },
+    {
+      "zh": "代碼",
+      "tw": [
+        "程式碼"
+      ],
+      "note": "code"
+    },
+    {
+      "zh": "源代碼",
+      "tw": [
+        "原始碼"
+      ],
+      "note": "source code"
+    },
+    {
+      "zh": "源碼",
+      "tw": [
+        "原始碼"
+      ],
+      "note": "source code"
+    },
+    {
+      "zh": "數組",
+      "tw": [
+        "陣列"
+      ],
+      "note": "array"
+    },
+    {
+      "zh": "字符串",
+      "tw": [
+        "字串"
+      ],
+      "note": "string"
+    },
+    {
+      "zh": "字符",
+      "tw": [
+        "字元"
+      ],
+      "note": "character"
+    },
+    {
+      "zh": "變量",
+      "tw": [
+        "變數"
+      ],
+      "note": "variable"
+    },
+    {
+      "zh": "數據庫",
+      "tw": [
+        "資料庫"
+      ],
+      "note": "database"
+    },
+    {
+      "zh": "接口",
+      "tw": [
+        "介面"
+      ],
+      "note": "interface"
+    },
+    {
+      "zh": "指針",
+      "tw": [
+        "指標"
+      ],
+      "note": "pointer"
+    },
+    {
+      "zh": "隊列",
+      "tw": [
+        "佇列"
+      ],
+      "note": "queue"
+    },
+    {
+      "zh": "哈希",
+      "tw": [
+        "雜湊"
+      ],
+      "note": "hash"
+    },
+    {
+      "zh": "模板",
+      "tw": [
+        "範本"
+      ],
+      "note": "template"
+    },
+    {
+      "zh": "插件",
+      "tw": [
+        "外掛",
+        "擴充功能"
+      ],
+      "note": "plugin"
+    },
+    {
+      "zh": "服務器",
+      "tw": [
+        "伺服器"
+      ],
+      "note": "server"
+    },
+    {
+      "zh": "客戶端",
+      "tw": [
+        "用戶端"
+      ],
+      "note": "client"
+    },
+    {
+      "zh": "雲計算",
+      "tw": [
+        "雲端運算"
+      ],
+      "note": "cloud computing"
+    },
+    {
+      "zh": "算法",
+      "tw": [
+        "演算法"
+      ],
+      "note": "algorithm"
+    },
+    {
+      "zh": "顯卡",
+      "tw": [
+        "顯示卡"
+      ],
+      "note": "GPU/graphics card"
+    },
+    {
+      "zh": "固件",
+      "tw": [
+        "韌體"
+      ],
+      "note": "firmware"
+    },
+    {
+      "zh": "內核",
+      "tw": [
+        "核心"
+      ],
+      "note": "kernel"
+    },
+    {
+      "zh": "線程",
+      "tw": [
+        "執行緒"
+      ],
+      "note": "thread"
+    },
+    {
+      "zh": "進程",
+      "tw": [
+        "行程"
+      ],
+      "note": "process"
+    },
+    {
+      "zh": "卸載",
+      "tw": [
+        "解除安裝"
+      ],
+      "note": "uninstall"
+    },
+    {
+      "zh": "信息",
+      "tw": [
+        "資訊",
+        "訊息"
+      ],
+      "note": "information→資訊 / message→訊息，依語境"
+    },
+    {
+      "zh": "公交車",
+      "tw": [
+        "公車"
+      ],
+      "note": "bus"
+    },
+    {
+      "zh": "公交",
+      "tw": [
+        "公車"
+      ],
+      "note": "bus"
+    },
+    {
+      "zh": "出租車",
+      "tw": [
+        "計程車"
+      ],
+      "note": "taxi"
+    },
+    {
+      "zh": "攝像頭",
+      "tw": [
+        "攝影機",
+        "鏡頭"
+      ],
+      "note": "camera"
+    },
+    {
+      "zh": "充電寶",
+      "tw": [
+        "行動電源"
+      ],
+      "note": "power bank"
+    },
+    {
+      "zh": "短信",
+      "tw": [
+        "簡訊"
+      ],
+      "note": "SMS"
+    },
+    {
+      "zh": "打印機",
+      "tw": [
+        "印表機"
+      ],
+      "note": "printer"
+    },
+    {
+      "zh": "打印",
+      "tw": [
+        "列印"
+      ],
+      "note": "print"
+    },
+    {
+      "zh": "視頻通話",
+      "tw": [
+        "視訊通話"
+      ],
+      "note": "video call"
+    },
+    {
+      "zh": "點贊",
+      "tw": [
+        "按讚"
+      ],
+      "note": "like"
+    },
+    {
+      "zh": "點讚",
+      "tw": [
+        "按讚"
+      ],
+      "note": "like"
+    },
+    {
+      "zh": "博客",
+      "tw": [
+        "部落格"
+      ],
+      "note": "blog"
+    },
+    {
+      "zh": "博主",
+      "tw": [
+        "部落客",
+        "版主"
+      ],
+      "note": "blogger"
+    },
+    {
+      "zh": "賬號",
+      "tw": [
+        "帳號"
+      ],
+      "note": "『賬』台灣不用，一律『帳』"
+    },
+    {
+      "zh": "賬戶",
+      "tw": [
+        "帳戶"
+      ],
+      "note": "account"
+    },
+    {
+      "zh": "拉黑",
+      "tw": [
+        "封鎖"
+      ],
+      "note": "block"
+    },
+    {
+      "zh": "刷屏",
+      "tw": [
+        "洗版"
+      ],
+      "note": "flood the feed"
+    },
+    {
+      "zh": "私信",
+      "tw": [
+        "私訊"
+      ],
+      "note": "DM"
+    },
+    {
+      "zh": "水軍",
+      "tw": [
+        "網軍"
+      ],
+      "note": "paid posters"
+    },
+    {
+      "zh": "牛逼",
+      "tw": [
+        "厲害",
+        "屌"
+      ],
+      "note": "粗俗，awesome"
+    },
+    {
+      "zh": "出圈",
+      "tw": [
+        "破圈",
+        "紅出同溫層"
+      ],
+      "note": "go mainstream"
+    },
+    {
+      "zh": "漲粉",
+      "tw": [
+        "增加粉絲",
+        "漲粉"
+      ],
+      "note": "gain followers"
+    },
+    {
+      "zh": "軟文",
+      "tw": [
+        "業配文",
+        "置入文"
+      ],
+      "note": "advertorial"
+    },
+    {
+      "zh": "標題黨",
+      "tw": [
+        "釣魚標題",
+        "標題黨"
+      ],
+      "note": "clickbait"
+    },
+    {
+      "zh": "轉化率",
+      "tw": [
+        "轉換率"
+      ],
+      "note": "conversion rate"
+    },
+    {
+      "zh": "復購",
+      "tw": [
+        "回購",
+        "再購"
+      ],
+      "note": "repurchase"
+    },
+    {
+      "zh": "早上好",
+      "tw": [
+        "早安"
+      ],
+      "note": "good morning"
+    },
+    {
+      "zh": "晚上好",
+      "tw": [
+        "晚安",
+        "晚上好"
+      ],
+      "note": "good evening"
+    },
+    {
+      "zh": "小區",
+      "tw": [
+        "社區"
+      ],
+      "note": "residential community"
+    },
+    {
+      "zh": "屏蔽",
+      "tw": [
+        "封鎖",
+        "過濾"
+      ],
+      "note": "block/filter"
+    },
+    {
+      "zh": "PN結",
+      "tw": [
+        "PN接面"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "SQL注入",
+      "tw": [
+        "SQL隱碼攻擊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "SQL注入攻擊",
+      "tw": [
+        "SQL隱碼攻擊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "U盤",
+      "tw": [
+        "隨身碟"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "三極管",
+      "tw": [
+        "三極體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "下拉列表",
+      "tw": [
+        "下拉選單"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "並行計算",
+      "tw": [
+        "平行計算"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "中間件",
+      "tw": [
+        "中介軟體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "串口",
+      "tw": [
+        "串列埠"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "串行",
+      "tw": [
+        "序列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "串行端口",
+      "tw": [
+        "串列埠"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "主引導記錄",
+      "tw": [
+        "主開機記錄"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "主板",
+      "tw": [
+        "主機板"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "二極管",
+      "tw": [
+        "二極體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "交互",
+      "tw": [
+        "互動"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "交互式",
+      "tw": [
+        "互動式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "人工智能",
+      "tw": [
+        "人工智慧"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "代碼頁",
+      "tw": [
+        "內碼表"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "以太網",
+      "tw": [
+        "乙太網"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "任務欄",
+      "tw": [
+        "工作列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "任務管理器",
+      "tw": [
+        "工作管理員"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "仿真",
+      "tw": [
+        "模擬"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "位圖",
+      "tw": [
+        "點陣圖"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "低級",
+      "tw": [
+        "低階",
+        "低級"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "便攜式",
+      "tw": [
+        "行動式",
+        "攜帶型"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "保存",
+      "tw": [
+        "儲存"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信噪比",
+      "tw": [
+        "訊雜比"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信息安全",
+      "tw": [
+        "資訊保安"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信息技術",
+      "tw": [
+        "資訊科技"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信息論",
+      "tw": [
+        "資訊理論"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信號",
+      "tw": [
+        "訊號",
+        "信號"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "信道",
+      "tw": [
+        "通道"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "傳感",
+      "tw": [
+        "感測"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "像素",
+      "tw": [
+        "畫素"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "僞代碼",
+      "tw": [
+        "虛擬碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "優先級",
+      "tw": [
+        "優先順序"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "元數據",
+      "tw": [
+        "後設資料"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "元編程",
+      "tw": [
+        "超程式設計"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "光標",
+      "tw": [
+        "游標"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "光盤",
+      "tw": [
+        "光碟"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "光驅",
+      "tw": [
+        "光碟機"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "免提",
+      "tw": [
+        "擴音"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "內置",
+      "tw": [
+        "內建"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "內聯函數",
+      "tw": [
+        "行內函數"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "全局",
+      "tw": [
+        "全域性"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "全角",
+      "tw": [
+        "全形"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "兼容",
+      "tw": [
+        "相容"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "冒泡排序",
+      "tw": [
+        "氣泡排序"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "函數",
+      "tw": [
+        "函式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "函數式編程",
+      "tw": [
+        "函數語言程式設計"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "刀片服務器",
+      "tw": [
+        "刀鋒伺服器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "分佈式",
+      "tw": [
+        "分散式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "分區",
+      "tw": [
+        "分割槽"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "刷新",
+      "tw": [
+        "重新整理"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "刻錄",
+      "tw": [
+        "燒錄"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "前綴",
+      "tw": [
+        "字首"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "剪切",
+      "tw": [
+        "剪下"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "剪貼板",
+      "tw": [
+        "剪貼簿"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "創建",
+      "tw": [
+        "建立"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "加載",
+      "tw": [
+        "載入"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "半角",
+      "tw": [
+        "半形"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "原代碼",
+      "tw": [
+        "原始碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "參數",
+      "tw": [
+        "引數"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "參數表",
+      "tw": [
+        "參數列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "句柄",
+      "tw": [
+        "控制代碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "可視化",
+      "tw": [
+        "視覺化"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "呼出",
+      "tw": [
+        "撥出"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "呼叫轉移",
+      "tw": [
+        "來電轉駁"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "命令式編程",
+      "tw": [
+        "指令式程式設計"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "命令行",
+      "tw": [
+        "命令列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "命名空間",
+      "tw": [
+        "名稱空間"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "單片機",
+      "tw": [
+        "微控制器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "回調",
+      "tw": [
+        "回撥"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "圖像",
+      "tw": [
+        "影象"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "圖庫",
+      "tw": [
+        "相簿"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "圖標",
+      "tw": [
+        "圖示"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "在線",
+      "tw": [
+        "線上"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "地址欄",
+      "tw": [
+        "位址列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "城域網",
+      "tw": [
+        "都會網路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "堆棧",
+      "tw": [
+        "堆疊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "場效應管",
+      "tw": [
+        "場效電晶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "壁紙",
+      "tw": [
+        "桌布",
+        "壁紙"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "外置",
+      "tw": [
+        "外接"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "外鍵",
+      "tw": [
+        "外來鍵"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "多任務",
+      "tw": [
+        "多工"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "多態",
+      "tw": [
+        "多型"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "多線程",
+      "tw": [
+        "多執行緒"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "字庫",
+      "tw": [
+        "字型檔"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "字段",
+      "tw": [
+        "欄位"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "字節",
+      "tw": [
+        "位元組"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "字體",
+      "tw": [
+        "字型"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "存儲",
+      "tw": [
+        "儲存"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "存盤",
+      "tw": [
+        "存檔"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "宏內核",
+      "tw": [
+        "單核心"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "寄存器",
+      "tw": [
+        "暫存器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "密鑰",
+      "tw": [
+        "金鑰"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "實例",
+      "tw": [
+        "例項",
+        "實例"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "實模式",
+      "tw": [
+        "真實模式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "審覈",
+      "tw": [
+        "稽覈"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "寫保護",
+      "tw": [
+        "防寫"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "寬帶",
+      "tw": [
+        "寬頻"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "尋址",
+      "tw": [
+        "定址"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "對話框",
+      "tw": [
+        "對話方塊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "對象",
+      "tw": [
+        "物件",
+        "對象"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "導入",
+      "tw": [
+        "匯入"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "導出",
+      "tw": [
+        "匯出"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "局域網",
+      "tw": [
+        "區域網"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "局部",
+      "tw": [
+        "區域性"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "嵌套",
+      "tw": [
+        "巢狀"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "布爾",
+      "tw": [
+        "布林"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "帶寬",
+      "tw": [
+        "頻寬"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "引導程序",
+      "tw": [
+        "載入程式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "彙編語言",
+      "tw": [
+        "組合語言"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "後綴",
+      "tw": [
+        "字尾"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "循環",
+      "tw": [
+        "迴圈",
+        "循環"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "性價比",
+      "tw": [
+        "價效比"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "性能",
+      "tw": [
+        "效能"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "截取",
+      "tw": [
+        "擷取"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "截屏",
+      "tw": [
+        "截圖"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "打開",
+      "tw": [
+        "開啟",
+        "打開"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "批量",
+      "tw": [
+        "批次"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "拋出",
+      "tw": [
+        "丟擲"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "拷貝",
+      "tw": [
+        "複製"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "持久性",
+      "tw": [
+        "永續性"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "捲積",
+      "tw": [
+        "摺積"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "掃描儀",
+      "tw": [
+        "掃描器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "掛斷",
+      "tw": [
+        "結束通話"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "採樣",
+      "tw": [
+        "取樣"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "採樣率",
+      "tw": [
+        "取樣率"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "控件",
+      "tw": [
+        "控制元件"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "搜索",
+      "tw": [
+        "搜尋"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "操作數",
+      "tw": [
+        "運算元"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "操作符",
+      "tw": [
+        "運算子"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "操作系統",
+      "tw": [
+        "作業系統"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "擴展",
+      "tw": [
+        "擴充套件"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "擴展名",
+      "tw": [
+        "副檔名"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "散列",
+      "tw": [
+        "雜湊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數字印刷",
+      "tw": [
+        "數位印刷"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數字電子",
+      "tw": [
+        "數位電子"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數字電路",
+      "tw": [
+        "數位電路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數據倉庫",
+      "tw": [
+        "資料倉儲"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數據報",
+      "tw": [
+        "資料包"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數據挖掘",
+      "tw": [
+        "資料探勘"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "數據源",
+      "tw": [
+        "資料來源"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文件",
+      "tw": [
+        "檔案"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文件名",
+      "tw": [
+        "檔名"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文件夾",
+      "tw": [
+        "資料夾"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文件擴展名",
+      "tw": [
+        "副檔名"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文字處理",
+      "tw": [
+        "文書處理"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文本",
+      "tw": [
+        "文字"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "文檔",
+      "tw": [
+        "文件"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "映射",
+      "tw": [
+        "對映"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "時分多址",
+      "tw": [
+        "分時多重進接"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "時分複用",
+      "tw": [
+        "分時多工"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "時鐘頻率",
+      "tw": [
+        "時脈頻率"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "晶閘管",
+      "tw": [
+        "閘流體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "晶體管",
+      "tw": [
+        "電晶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "最終用戶",
+      "tw": [
+        "終端使用者"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "有損壓縮",
+      "tw": [
+        "有失真壓縮"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "本地代碼",
+      "tw": [
+        "原生代碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "析構函數",
+      "tw": [
+        "解構函式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "枚舉",
+      "tw": [
+        "列舉"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "查找",
+      "tw": [
+        "查詢"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "查看",
+      "tw": [
+        "檢視"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "桌面型",
+      "tw": [
+        "桌上型"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "構造函數",
+      "tw": [
+        "建構函式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "標識符",
+      "tw": [
+        "識別符號"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "模塊",
+      "tw": [
+        "模組"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "模擬電子",
+      "tw": [
+        "類比電子"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "模擬電路",
+      "tw": [
+        "類比電路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "權限",
+      "tw": [
+        "許可權"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "正則表達式",
+      "tw": [
+        "正規表示式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "死機",
+      "tw": [
+        "宕機"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "殺毒",
+      "tw": [
+        "防毒"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "比特",
+      "tw": [
+        "位元"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "比特率",
+      "tw": [
+        "位元率"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "波分複用",
+      "tw": [
+        "波長分波多工"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "消息",
+      "tw": [
+        "訊息",
+        "消息"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "添加",
+      "tw": [
+        "新增"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "源文件",
+      "tw": [
+        "原始檔"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "溢出",
+      "tw": [
+        "溢位"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "滾動條",
+      "tw": [
+        "捲軸"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "演示文稿",
+      "tw": [
+        "簡報"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "激光",
+      "tw": [
+        "鐳射"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "無損壓縮",
+      "tw": [
+        "無失真壓縮"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "物理內存",
+      "tw": [
+        "實體記憶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "物理地址",
+      "tw": [
+        "實體地址"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "狀態欄",
+      "tw": [
+        "狀態列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "用戶名",
+      "tw": [
+        "使用者名稱"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "界面",
+      "tw": [
+        "介面"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "異步",
+      "tw": [
+        "非同步"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "登錄",
+      "tw": [
+        "登入"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "發佈",
+      "tw": [
+        "釋出"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "發送",
+      "tw": [
+        "傳送"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "盤片",
+      "tw": [
+        "碟片"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "盤符",
+      "tw": [
+        "磁碟機代號"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "目標代碼",
+      "tw": [
+        "目的碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "相冊",
+      "tw": [
+        "相簿"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "矢量",
+      "tw": [
+        "向量"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "知識產權",
+      "tw": [
+        "智慧財產權"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "碼分多址",
+      "tw": [
+        "分碼多重進接"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "碼率",
+      "tw": [
+        "位元速率"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "磁盤",
+      "tw": [
+        "磁碟"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "磁道",
+      "tw": [
+        "磁軌"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "移動硬盤",
+      "tw": [
+        "行動硬碟"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "移動網絡",
+      "tw": [
+        "行動網路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "移動資料",
+      "tw": [
+        "行動資料"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "移動通信",
+      "tw": [
+        "行動通訊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "移動電話",
+      "tw": [
+        "行動電話"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "程序",
+      "tw": [
+        "程式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "程序員",
+      "tw": [
+        "程式設計師"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "空分多址",
+      "tw": [
+        "分空間多重進接"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "空分複用",
+      "tw": [
+        "空間多工"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "窗口",
+      "tw": [
+        "視窗"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "端口",
+      "tw": [
+        "埠"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "筆記本電腦",
+      "tw": [
+        "膝上型電腦"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "算子",
+      "tw": [
+        "運算元"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "範式",
+      "tw": [
+        "正規化"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "粘貼",
+      "tw": [
+        "貼上",
+        "粘貼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "紅心大戰",
+      "tw": [
+        "傷心小棧"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "組件",
+      "tw": [
+        "元件"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "綁定",
+      "tw": [
+        "繫結"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "網上鄰居",
+      "tw": [
+        "網路上的芳鄰"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "網卡",
+      "tw": [
+        "網絡卡"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "網吧",
+      "tw": [
+        "網咖"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "網絡",
+      "tw": [
+        "網路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "網關",
+      "tw": [
+        "閘道器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "編程",
+      "tw": [
+        "程式設計"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "編程語言",
+      "tw": [
+        "程式語言"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "縮略圖",
+      "tw": [
+        "縮圖"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "縮進",
+      "tw": [
+        "縮排"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "總線",
+      "tw": [
+        "匯流排"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "缺省",
+      "tw": [
+        "預設"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "聯繫",
+      "tw": [
+        "聯絡"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "聯繫歷史",
+      "tw": [
+        "通話記錄"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "聲卡",
+      "tw": [
+        "音效卡"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "聲明",
+      "tw": [
+        "宣告"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "脫機",
+      "tw": [
+        "離線"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "腳本",
+      "tw": [
+        "指令碼"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "自動轉屏",
+      "tw": [
+        "自動旋轉螢幕"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "臺式機",
+      "tw": [
+        "桌上型電腦"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "航天飛機",
+      "tw": [
+        "太空梭"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "芯片",
+      "tw": [
+        "晶片"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "花屏",
+      "tw": [
+        "破圖"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "菜單",
+      "tw": [
+        "選單",
+        "菜單"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "萬維網",
+      "tw": [
+        "全球資訊網"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "藍屏",
+      "tw": [
+        "藍色畫面"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "藍牙",
+      "tw": [
+        "藍芽"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "虛函數",
+      "tw": [
+        "虛擬函式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "虛擬機",
+      "tw": [
+        "虛擬機器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "表達式",
+      "tw": [
+        "表示式",
+        "運算式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "複印",
+      "tw": [
+        "影印"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "複選按鈕",
+      "tw": [
+        "覈取按鈕"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "複選框",
+      "tw": [
+        "覈取方塊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "視圖",
+      "tw": [
+        "檢視"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "視頻會議",
+      "tw": [
+        "視訊會議"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "解釋器",
+      "tw": [
+        "直譯器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "觸摸",
+      "tw": [
+        "觸控"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "觸摸屏",
+      "tw": [
+        "觸控式螢幕"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "計算機安全",
+      "tw": [
+        "電腦保安"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "計算機科學",
+      "tw": [
+        "電腦科學"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "設備",
+      "tw": [
+        "裝置"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "設置",
+      "tw": [
+        "設定"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "註冊機",
+      "tw": [
+        "序號產生器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "註冊表",
+      "tw": [
+        "登錄檔"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "註銷",
+      "tw": [
+        "登出"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "調制",
+      "tw": [
+        "調變"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "調度",
+      "tw": [
+        "排程"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "調色板",
+      "tw": [
+        "調色盤"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "調製解調器",
+      "tw": [
+        "數據機"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "調試器",
+      "tw": [
+        "偵錯程式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "軟驅",
+      "tw": [
+        "軟碟機"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "轉義字符",
+      "tw": [
+        "跳脫字元"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "通信",
+      "tw": [
+        "通訊"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "通訊卡",
+      "tw": [
+        "通話卡"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "通配符",
+      "tw": [
+        "萬用字元"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "連接",
+      "tw": [
+        "連線"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "連接器",
+      "tw": [
+        "聯結器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "進制",
+      "tw": [
+        "進位制"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "運算符",
+      "tw": [
+        "運算子"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "運行",
+      "tw": [
+        "執行"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "過程式編程",
+      "tw": [
+        "程序式程式設計"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "遞歸",
+      "tw": [
+        "遞迴"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "遠程",
+      "tw": [
+        "遠端"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "適配器",
+      "tw": [
+        "介面卡"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "邏輯門",
+      "tw": [
+        "邏輯閘"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "重命名",
+      "tw": [
+        "重新命名"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "重裝",
+      "tw": [
+        "重灌"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "重載",
+      "tw": [
+        "過載"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "金屬氧化物半導體",
+      "tw": [
+        "金氧半導體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "錄像",
+      "tw": [
+        "錄影"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "鏈表",
+      "tw": [
+        "連結串列"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "鏡像",
+      "tw": [
+        "映象"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "門戶網站",
+      "tw": [
+        "入口網站"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "門電路",
+      "tw": [
+        "閘電路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "閃存",
+      "tw": [
+        "快閃記憶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "關係數據庫",
+      "tw": [
+        "關聯式資料庫"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "集成",
+      "tw": [
+        "整合"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "集成電路",
+      "tw": [
+        "積體電路"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "集羣",
+      "tw": [
+        "叢集"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "雲存儲",
+      "tw": [
+        "雲端儲存"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "面向對象",
+      "tw": [
+        "物件導向"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "面向過程",
+      "tw": [
+        "程序導向"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "頁眉",
+      "tw": [
+        "頁首"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "頁腳",
+      "tw": [
+        "頁尾"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "項目",
+      "tw": [
+        "專案"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "預處理器",
+      "tw": [
+        "前處理器"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "頭文件",
+      "tw": [
+        "標頭檔案"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "頻分多址",
+      "tw": [
+        "分頻多重進接"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "頻分複用",
+      "tw": [
+        "分頻多工"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "類型",
+      "tw": [
+        "型別"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "類模板",
+      "tw": [
+        "類别範本"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "顯像管",
+      "tw": [
+        "映象管"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "顯存",
+      "tw": [
+        "視訊記憶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "飛行模式",
+      "tw": [
+        "飛航模式"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "首席信息官",
+      "tw": [
+        "資訊長"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "首席執行官",
+      "tw": [
+        "執行長"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "首席技術官",
+      "tw": [
+        "技術長"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "首席運營官",
+      "tw": [
+        "營運長"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "高性能計算",
+      "tw": [
+        "高效能運算"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "高級",
+      "tw": [
+        "高階",
+        "進階",
+        "高級"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "高速緩存",
+      "tw": [
+        "快取記憶體"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "黑客",
+      "tw": [
+        "駭客"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "默認值",
+      "tw": [
+        "預設值"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "點擊",
+      "tw": [
+        "點選"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "三文魚",
+      "tw": [
+        "鮭魚"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "主存",
+      "tw": [
+        "主記憶體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "亞像素",
+      "tw": [
+        "子像素"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "代用鹽",
+      "tw": [
+        "低鈉鹽"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "佈局",
+      "tw": [
+        "格局"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "使用者友好",
+      "tw": [
+        "使用者友善"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "傳感器",
+      "tw": [
+        "感測器",
+        "感光元件"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "充值",
+      "tw": [
+        "儲值",
+        "加值"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "充能",
+      "tw": [
+        "蓄能"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "光刻機",
+      "tw": [
+        "曝光機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "全屏",
+      "tw": [
+        "全螢幕"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "全網",
+      "tw": [
+        "整個網路上"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "冰棍",
+      "tw": [
+        "冰棒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "冷麵",
+      "tw": [
+        "涼麵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "刷新率",
+      "tw": [
+        "更新率"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "前沿",
+      "tw": [
+        "尖端"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "匹配",
+      "tw": [
+        "配對",
+        "對應",
+        "吻合"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "升級",
+      "tw": [
+        "更新"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "協議",
+      "tw": [
+        "協定"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "反安裝",
+      "tw": [
+        "解除安裝"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "嘎嘎好吃",
+      "tw": [
+        "超好吃"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "回滾",
+      "tw": [
+        "回溯",
+        "還原"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "回車",
+      "tw": [
+        "enter"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "埠口",
+      "tw": [
+        "通訊埠"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "外圍設備",
+      "tw": [
+        "周邊設備"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "奶茶",
+      "tw": [
+        "珍奶",
+        "手搖",
+        "飲料"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "屏保",
+      "tw": [
+        "螢幕保護"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "屏幕文字",
+      "tw": [
+        "字幕"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "巨好吃",
+      "tw": [
+        "超好吃"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "常量",
+      "tw": [
+        "常數"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "干飯",
+      "tw": [
+        "吃飯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "平替",
+      "tw": [
+        "平價版",
+        "平民版"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "後備",
+      "tw": [
+        "備份"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "微交易",
+      "tw": [
+        "小額付費"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "思路",
+      "tw": [
+        "思考邏輯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手動檔",
+      "tw": [
+        "手排"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手柄",
+      "tw": [
+        "搖桿"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "掉線",
+      "tw": [
+        "斷線",
+        "分心",
+        "智商太低"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "掛機",
+      "tw": [
+        "連線"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "擴展塢",
+      "tw": [
+        "擴充埠"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "攝像",
+      "tw": [
+        "攝影"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "攝像機",
+      "tw": [
+        "攝影機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "數字唱片",
+      "tw": [
+        "數位唱片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "文娛活動",
+      "tw": [
+        "康樂活動"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "方便面",
+      "tw": [
+        "泡麵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "方便麵",
+      "tw": [
+        "生力麵",
+        "速食麵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "易拉罐",
+      "tw": [
+        "易開罐"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "流水線",
+      "tw": [
+        "生產線"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "渲染管線",
+      "tw": [
+        "彩現方式"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "激光唱機",
+      "tw": [
+        "雷射唱盤"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "激光打印機",
+      "tw": [
+        "雷射印表機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "激光視盤",
+      "tw": [
+        "影碟"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "激活碼",
+      "tw": [
+        "啟動序號"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "熒光屏",
+      "tw": [
+        "螢光幕"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "牛油",
+      "tw": [
+        "奶油"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "牛油果",
+      "tw": [
+        "酪梨"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "獼猴桃",
+      "tw": [
+        "奇異果"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "西紅柿",
+      "tw": [
+        "（牛）蕃茄"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "視頻電話",
+      "tw": [
+        "視訊電話"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "計算機",
+      "tw": [
+        "電腦"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "記憶棒",
+      "tw": [
+        "MS",
+        "記憶卡"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "負一屏",
+      "tw": [
+        "資訊主頁"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "資料綁定",
+      "tw": [
+        "資料繫結"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "資源管理器",
+      "tw": [
+        "資料總管"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "軟件包",
+      "tw": [
+        "套裝軟體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "適配",
+      "tw": [
+        "符合"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "酸奶",
+      "tw": [
+        "優格"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "酸牛奶",
+      "tw": [
+        "優酪乳"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "鏈結",
+      "tw": [
+        "連結"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "集成圖形",
+      "tw": [
+        "整合圖形"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電子信函",
+      "tw": [
+        "電子郵件"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電子屏幕",
+      "tw": [
+        "電子看板"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電機",
+      "tw": [
+        "馬達"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電腦磁盤",
+      "tw": [
+        "磁碟"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "黃油",
+      "tw": [
+        "奶油"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大模型",
+      "tw": [
+        "大型語言模型",
+        "LLM"
+      ],
+      "note": "AI圈：台灣寫全名",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "智能體",
+      "tw": [
+        "AI 代理",
+        "代理人",
+        "agent"
+      ],
+      "note": "AI圈：台灣用代理",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "刷榜",
+      "tw": [
+        "灌榜",
+        "衝榜"
+      ],
+      "note": "leaderboard 黑話",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "降本增效",
+      "tw": [
+        "降低成本提升效率"
+      ],
+      "note": "中國企業四字黑話",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "拉齊",
+      "tw": [
+        "對齊",
+        "同步",
+        "取得共識"
+      ],
+      "note": "職場黑話",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "倉庫",
+      "tw": [
+        "儲存庫",
+        "repo"
+      ],
+      "note": "Git：台灣用儲存庫",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "聯調",
+      "tw": [
+        "整合測試",
+        "串接測試"
+      ],
+      "note": "integration test",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "灰度發布",
+      "tw": [
+        "漸進式發布",
+        "金絲雀發布"
+      ],
+      "note": "canary release",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "複用",
+      "tw": [
+        "重用",
+        "再利用"
+      ],
+      "note": "reuse",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "健壯性",
+      "tw": [
+        "穩健性",
+        "強健性"
+      ],
+      "note": "robustness",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "魯棒性",
+      "tw": [
+        "穩健性",
+        "強健性"
+      ],
+      "note": "robust 音譯，台灣不用",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "報文",
+      "tw": [
+        "封包",
+        "訊息"
+      ],
+      "note": "packet/message",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "套接字",
+      "tw": [
+        "通訊端",
+        "socket"
+      ],
+      "note": "台灣用通訊端",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "驅動程序",
+      "tw": [
+        "驅動程式"
+      ],
+      "note": "driver",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "需求評審",
+      "tw": [
+        "需求審查",
+        "需求審閱"
+      ],
+      "note": "requirement review",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "合入",
+      "tw": [
+        "合併",
+        "merge"
+      ],
+      "note": "台灣用合併",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "面向連接",
+      "tw": [
+        "連結導向"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "持續集成",
+      "tw": [
+        "持續整合"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "域名",
+      "tw": [
+        "網域名稱"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "高級語言",
+      "tw": [
+        "高階語言"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "懶加載",
+      "tw": [
+        "延遲載入"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "低級語言",
+      "tw": [
+        "低階語言"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "純文本",
+      "tw": [
+        "純文字"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "生成模式",
+      "tw": [
+        "正式模式"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "激活的",
+      "tw": [
+        "啟用的"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "動效",
+      "tw": [
+        "動畫"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "特性",
+      "tw": [
+        "屬性"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "管道",
+      "tw": [
+        "通道"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "集群",
+      "tw": [
+        "叢集"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "命令",
+      "tw": [
+        "指令"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "註釋",
+      "tw": [
+        "註解"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "失活的",
+      "tw": [
+        "停用的"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "示例",
+      "tw": [
+        "範例"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "哈希表",
+      "tw": [
+        "雜湊表"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "主頁",
+      "tw": [
+        "首頁"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "內聯",
+      "tw": [
+        "行內"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "遍歷器",
+      "tw": [
+        "疊代器"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "列表",
+      "tw": [
+        "清單"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "登陸",
+      "tw": [
+        "登入"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "母板",
+      "tw": [
+        "主機板"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "導航",
+      "tw": [
+        "導向"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "對像",
+      "tw": [
+        "物件"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "形參",
+      "tw": [
+        "參數"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "重定向",
+      "tw": [
+        "重導向"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "響應",
+      "tw": [
+        "回應"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "返回",
+      "tw": [
+        "回傳"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "復用",
+      "tw": [
+        "複用"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "滾動",
+      "tw": [
+        "捲動"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "配置",
+      "tw": [
+        "設定"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    }
+  ],
+  "grey": [
+    {
+      "zh": "迭代",
+      "tw": [
+        "疊代",
+        "改版",
+        "反覆優化"
+      ],
+      "note": "程式 iteration 可留(正字疊代)；『迭代產品』建議改『改版』"
+    },
+    {
+      "zh": "優化",
+      "tw": [
+        "最佳化",
+        "優化"
+      ],
+      "note": "技術文件偏好『最佳化』；一般文案『優化』台灣已通用"
+    },
+    {
+      "zh": "數據",
+      "tw": [
+        "資料",
+        "數據"
+      ],
+      "note": "data→資料；統計/量化語境『數據』可留"
+    },
+    {
+      "zh": "用戶",
+      "tw": [
+        "使用者",
+        "用戶"
+      ],
+      "note": "UX 偏好『使用者』；電信/帳務『用戶』台灣也用"
+    },
+    {
+      "zh": "智能",
+      "tw": [
+        "智慧"
+      ],
+      "note": "人工智慧/智慧型手機；部分行銷複合詞已融入"
+    },
+    {
+      "zh": "通過",
+      "tw": [
+        "透過",
+        "通過"
+      ],
+      "note": "『透過某方法』才改；『考試通過/議案通過』台灣正常用"
+    },
+    {
+      "zh": "報錯",
+      "tw": [
+        "出錯",
+        "跳錯誤",
+        "噴錯"
+      ],
+      "note": "工程師口語，偏陸味"
+    },
+    {
+      "zh": "渠道",
+      "tw": [
+        "管道",
+        "通路"
+      ],
+      "note": "channel"
+    },
+    {
+      "zh": "復盤",
+      "tw": [
+        "檢討",
+        "回顧"
+      ],
+      "note": "review/retrospective"
+    },
+    {
+      "zh": "對齊",
+      "tw": [
+        "同步",
+        "對焦",
+        "取得共識"
+      ],
+      "note": "互聯網黑話 align"
+    },
+    {
+      "zh": "抓手",
+      "tw": [
+        "著力點",
+        "切入點"
+      ],
+      "note": "互聯網黑話"
+    },
+    {
+      "zh": "顆粒度",
+      "tw": [
+        "細緻度",
+        "詳細程度"
+      ],
+      "note": "granularity"
+    },
+    {
+      "zh": "落地",
+      "tw": [
+        "落實",
+        "實行",
+        "落地"
+      ],
+      "note": "已半融入台灣商業圈"
+    },
+    {
+      "zh": "賽道",
+      "tw": [
+        "領域",
+        "市場"
+      ],
+      "note": "track/field"
+    },
+    {
+      "zh": "立馬",
+      "tw": [
+        "立刻",
+        "馬上"
+      ],
+      "note": "古漢語有，現代台灣口語偏好立刻/馬上"
+    },
+    {
+      "zh": "靠譜",
+      "tw": [
+        "可靠",
+        "靠得住"
+      ],
+      "note": "reliable，已半融入"
+    },
+    {
+      "zh": "給力",
+      "tw": [
+        "夠力",
+        "很猛",
+        "給力"
+      ],
+      "note": "曾流行，現退燒"
+    },
+    {
+      "zh": "顏值",
+      "tw": [
+        "外貌",
+        "長相"
+      ],
+      "note": "已廣泛融入台灣口語"
+    },
+    {
+      "zh": "種草",
+      "tw": [
+        "推坑",
+        "燒"
+      ],
+      "note": "引發購買慾"
+    },
+    {
+      "zh": "帶貨",
+      "tw": [
+        "導購",
+        "推坑"
+      ],
+      "note": "live-selling"
+    },
+    {
+      "zh": "高端",
+      "tw": [
+        "高階",
+        "頂級"
+      ],
+      "note": "high-end，已半融入(高端疫苗)"
+    },
+    {
+      "zh": "高大上",
+      "tw": [
+        "高級",
+        "有質感"
+      ],
+      "note": "fancy"
+    },
+    {
+      "zh": "走心",
+      "tw": [
+        "用心",
+        "走心"
+      ],
+      "note": "語義兩岸有分歧，慎判"
+    },
+    {
+      "zh": "社區",
+      "tw": [
+        "社羣",
+        "社區"
+      ],
+      "note": "IT 術語(OpenCC)",
+      "source": "opencc-IT"
+    },
+    {
+      "zh": "一次性",
+      "tw": [
+        "免洗",
+        "拋棄式"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "一陣風",
+      "tw": [
+        "三分鐘熱度"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "一風吹",
+      "tw": [
+        "一筆勾銷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "丁克夫妻",
+      "tw": [
+        "頂克族"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "三觀",
+      "tw": [
+        "價值觀"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "上學",
+      "tw": [
+        "讀書"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "上岸",
+      "tw": [
+        "上榜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "上座率",
+      "tw": [
+        "票房紀錄"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "上頭",
+      "tw": [
+        "有feel（fu）",
+        "有感"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "下午好",
+      "tw": [
+        "午安"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "下崗",
+      "tw": [
+        "失業"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "下頭",
+      "tw": [
+        "很解"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "丟失",
+      "tw": [
+        "遺失"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "中標",
+      "tw": [
+        "得標"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "串子",
+      "tw": [
+        "反串",
+        "釣魚"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "也是醉了",
+      "tw": [
+        "沒救了",
+        "無言"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "乾皮",
+      "tw": [
+        "乾肌"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "油皮",
+      "tw": [
+        "油肌"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "二哈",
+      "tw": [
+        "哈士奇"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "二流子",
+      "tw": [
+        "流氓"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "互噴",
+      "tw": [
+        "互罵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "京劇",
+      "tw": [
+        "國劇",
+        "平劇"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "亭式車站",
+      "tw": [
+        "候車亭"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "份兒飯",
+      "tw": [
+        "套餐"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "估計",
+      "tw": [
+        "可能",
+        "大概",
+        "預估"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "低常兒童",
+      "tw": [
+        "低能兒",
+        "智障兒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "低端",
+      "tw": [
+        "低級",
+        "低階"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "低谷",
+      "tw": [
+        "谷底"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "低配",
+      "tw": [
+        "低階",
+        "極簡"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "作死",
+      "tw": [
+        "找死"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "保暖杯",
+      "tw": [
+        "保溫杯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "保職停薪",
+      "tw": [
+        "留職停薪"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "保育院",
+      "tw": [
+        "育幼院"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "信息素",
+      "tw": [
+        "費洛蒙"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "信息量",
+      "tw": [
+        "資訊量",
+        "內容",
+        "要素"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "俯臥撐",
+      "tw": [
+        "伏地挺身"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "個人計算機",
+      "tw": [
+        "個人電腦"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "倒休",
+      "tw": [
+        "調班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "倒讀秒",
+      "tw": [
+        "倒數計時"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "假牌",
+      "tw": [
+        "仿冒品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "做底",
+      "tw": [
+        "打底"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "做死",
+      "tw": [
+        "找死",
+        "自找麻煩",
+        "自尋死路"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "健美褲",
+      "tw": [
+        "韻律褲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "億點點",
+      "tw": [
+        "超大一點"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "兄弟院校",
+      "tw": [
+        "姊妹校"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "光榮榜",
+      "tw": [
+        "榮譽榜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "兒童文化宮",
+      "tw": [
+        "兒童活動中心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "內函",
+      "tw": [
+        "影射"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "內卷",
+      "tw": [
+        "過度競爭",
+        "內鬥"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "內貿",
+      "tw": [
+        "內銷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "全家桶",
+      "tw": [
+        "方案",
+        "套餐"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "全線飄紅",
+      "tw": [
+        "長紅"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "八旗子弟",
+      "tw": [
+        "紈褲子弟"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "公交站",
+      "tw": [
+        "公車站"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "公房",
+      "tw": [
+        "公家宿舍"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "共情",
+      "tw": [
+        "共感"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "冰毒",
+      "tw": [
+        "安非他命"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "冷背",
+      "tw": [
+        "冷門"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "凡高",
+      "tw": [
+        "梵谷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "出片",
+      "tw": [
+        "很好拍"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "出版物",
+      "tw": [
+        "出版品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "出糧",
+      "tw": [
+        "領薪水"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "分成",
+      "tw": [
+        "抽成"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "分數線",
+      "tw": [
+        "最低錄取標準"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "列車員",
+      "tw": [
+        "車掌"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "利稅",
+      "tw": [
+        "營業稅"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "利索",
+      "tw": [
+        "俐落",
+        "乾脆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "刷手機",
+      "tw": [
+        "滑手機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "剃鬚刀",
+      "tw": [
+        "刮鬚刀"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "前方高能",
+      "tw": [
+        "注意"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "動畫片",
+      "tw": [
+        "卡通片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "勞動保險",
+      "tw": [
+        "勞工保險"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "勞逸結合",
+      "tw": [
+        "適時休息"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "包郵",
+      "tw": [
+        "含運"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "半包價式旅遊",
+      "tw": [
+        "半自助式旅遊"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "半截美，的士頭",
+      "tw": [
+        "發財車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "半邊家庭",
+      "tw": [
+        "單親家庭"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "博取眼球",
+      "tw": [
+        "引人注目",
+        "吸睛"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "原珠筆",
+      "tw": [
+        "原子筆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "原音帶",
+      "tw": [
+        "原聲帶"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "反饋",
+      "tw": [
+        "反應",
+        "回饋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "受獎產品",
+      "tw": [
+        "得獎產品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "受眾",
+      "tw": [
+        "閱聽人"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "句號",
+      "tw": [
+        "句點"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "只讀存儲器",
+      "tw": [
+        "唯讀記憶體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "吃瓜",
+      "tw": [
+        "看八卦",
+        "看戲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "合同",
+      "tw": [
+        "合約"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "吊空",
+      "tw": [
+        "暴漲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "吧唧",
+      "tw": [
+        "胸章"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "含金量",
+      "tw": [
+        "知識含量",
+        "潛在價值",
+        "內涵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "吸引眼球",
+      "tw": [
+        "引人矚目",
+        "目不轉睛"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "吹喇叭",
+      "tw": [
+        "拍馬屁"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "咋的",
+      "tw": [
+        "怎麼樣",
+        "不管怎樣"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "哥特式藝術",
+      "tw": [
+        "哥德式藝術"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "唯書",
+      "tw": [
+        "死讀書"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "商標菜",
+      "tw": [
+        "招牌菜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "啞光",
+      "tw": [
+        "霧面"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "喇叭筒",
+      "tw": [
+        "麥克風",
+        "擴音器"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "單位",
+      "tw": [
+        "組織",
+        "部門"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "單本劇",
+      "tw": [
+        "單元劇"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "單身狗",
+      "tw": [
+        "單身漢"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "嘎了",
+      "tw": [
+        "死了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "嘴替",
+      "tw": [
+        "代言人",
+        "發聲筒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "噴子",
+      "tw": [
+        "嘴砲",
+        "白目",
+        "耍嘴皮子"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "四愛",
+      "tw": [
+        "女攻男受"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "回放",
+      "tw": [
+        "重播"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "回頭客",
+      "tw": [
+        "常客",
+        "老顧客"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "圈粉",
+      "tw": [
+        "粉絲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "圈錢",
+      "tw": [
+        "騙錢"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "堵車",
+      "tw": [
+        "塞車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "塑料",
+      "tw": [
+        "塑膠",
+        "塑膠微粒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "塑料袋",
+      "tw": [
+        "塑膠袋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "多國家公司",
+      "tw": [
+        "跨國公司"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "夜餐",
+      "tw": [
+        "宵夜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大佬",
+      "tw": [
+        "高手",
+        "大大"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大實話",
+      "tw": [
+        "真心話",
+        "實話",
+        "人話"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大概率",
+      "tw": [
+        "大概",
+        "有機率"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大氣污染",
+      "tw": [
+        "空氣污染"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大秀一波",
+      "tw": [
+        "大顯身手",
+        "展現"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大腕",
+      "tw": [
+        "重量級人物"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大鍋",
+      "tw": [
+        "小耳朵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "大面積",
+      "tw": [
+        "大範圍"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "天花板",
+      "tw": [
+        "xx界的勞斯萊斯",
+        "佼佼者"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "太卷了",
+      "tw": [
+        "過度競爭",
+        "內鬥"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "太牛了",
+      "tw": [
+        "太強了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "夾子音",
+      "tw": [
+        "很ㄋㄟ"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "奇葩",
+      "tw": [
+        "怪胎"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "套娃",
+      "tw": [
+        "巢狀",
+        "模仿"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "套服",
+      "tw": [
+        "套裝"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "套路",
+      "tw": [
+        "手法",
+        "劇本",
+        "老梗"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "奧術魔刃",
+      "tw": [
+        "ASMR"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "妹紙",
+      "tw": [
+        "女生",
+        "正妹"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "姥姥",
+      "tw": [
+        "奶奶",
+        "阿嬤",
+        "阿婆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "婚外戀",
+      "tw": [
+        "婚外情"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "媽生",
+      "tw": [
+        "天生"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "嫩膚",
+      "tw": [
+        "護膚"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "學渣",
+      "tw": [
+        "吊車尾",
+        "後段班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "學霸",
+      "tw": [
+        "資優生"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "官宣",
+      "tw": [
+        "正式宣布",
+        "發表",
+        "公開"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "實屬",
+      "tw": [
+        "確實"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "實打實",
+      "tw": [
+        "穩紮穩打",
+        "實實在在"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "實時",
+      "tw": [
+        "即時"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "實錘",
+      "tw": [
+        "證實"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "寬心丸",
+      "tw": [
+        "定心丸"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "寶寶",
+      "tw": [
+        "寶貝",
+        "北鼻"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "封禁",
+      "tw": [
+        "封鎖"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "專列",
+      "tw": [
+        "加班車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尋呼",
+      "tw": [
+        "呼叫"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尋思",
+      "tw": [
+        "想說",
+        "深思熟慮"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "導火索",
+      "tw": [
+        "導火線"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小作文",
+      "tw": [
+        "小論文"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小哥哥",
+      "tw": [
+        "大哥",
+        "阿弟仔"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小型單放機",
+      "tw": [
+        "隨身聽"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小太陽，小皇帝",
+      "tw": [
+        "獨生子",
+        "獨生女"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小姊姊",
+      "tw": [
+        "大姐",
+        "阿妹仔"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小金庫",
+      "tw": [
+        "私房錢"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "小電驢",
+      "tw": [
+        "電動自行車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尖子",
+      "tw": [
+        "傑出人士"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尖端",
+      "tw": [
+        "頂尖"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尬黑",
+      "tw": [
+        "抹黑",
+        "家醜外揚"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尾氣測量",
+      "tw": [
+        "排氣測量"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "尿性",
+      "tw": [
+        "個性",
+        "德性"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "居民身分證",
+      "tw": [
+        "國民身分證"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "屌絲",
+      "tw": [
+        "魯蛇"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "展賣",
+      "tw": [
+        "展售"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "屬實",
+      "tw": [
+        "真的是"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "崗位培訓",
+      "tw": [
+        "在職訓練"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "巡診",
+      "tw": [
+        "巡迴醫療"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "工齡",
+      "tw": [
+        "年資"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "巴羅克藝術",
+      "tw": [
+        "巴洛克藝術"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "巴適",
+      "tw": [
+        "不錯",
+        "舒適",
+        "爽到不行"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "帖子",
+      "tw": [
+        "貼文",
+        "文章"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "帶感",
+      "tw": [
+        "有感觸",
+        "有魅力"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "帶節奏",
+      "tw": [
+        "帶風向"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "幾個意思",
+      "tw": [
+        "什麼意思"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "床上戲",
+      "tw": [
+        "床戲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "底層邏輯",
+      "tw": [
+        "主要原因",
+        "核心原理",
+        "基本邏輯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "底板價",
+      "tw": [
+        "基價",
+        "底價"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "底氣",
+      "tw": [
+        "骨氣",
+        "氣勢",
+        "實力"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "廠校掛鉤",
+      "tw": [
+        "建教合作"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "廣告電影",
+      "tw": [
+        "廣告片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "引廠進店",
+      "tw": [
+        "專櫃"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "彩電",
+      "tw": [
+        "彩色電視機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "彩電牆",
+      "tw": [
+        "電視牆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "復映片",
+      "tw": [
+        "二輪片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "志願者",
+      "tw": [
+        "志工",
+        "義工"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "忙音信號",
+      "tw": [
+        "忙線訊號"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "快班",
+      "tw": [
+        "資優班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "快進",
+      "tw": [
+        "快轉",
+        "跳到"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "性格",
+      "tw": [
+        "個性"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "恰飯",
+      "tw": [
+        "工商",
+        "業配"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "悲摧",
+      "tw": [
+        "催淚",
+        "悲傷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "情緒價值",
+      "tw": [
+        "關愛",
+        "反應",
+        "觸動人心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "愛侶動物",
+      "tw": [
+        "寵物"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "慈悲殺人",
+      "tw": [
+        "安樂死"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "慌得一批",
+      "tw": [
+        "十分慌張"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "慢班",
+      "tw": [
+        "放牛班",
+        "後段班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "慢運動",
+      "tw": [
+        "慢動作"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "慣偷",
+      "tw": [
+        "慣竊"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "憋屈",
+      "tw": [
+        "敢怒不敢言",
+        "委屈",
+        "有苦難言"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "懵逼",
+      "tw": [
+        "不明所以",
+        "困惑"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "成服",
+      "tw": [
+        "成衣"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "我丟",
+      "tw": [
+        "哇靠"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "我司",
+      "tw": [
+        "本公司"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "房齡",
+      "tw": [
+        "屋齡"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手刀",
+      "tw": [
+        "立刻"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手辦",
+      "tw": [
+        "模型",
+        "公仔",
+        "黏土人"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手雷",
+      "tw": [
+        "手榴彈"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "手電",
+      "tw": [
+        "手電筒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "扎啤",
+      "tw": [
+        "生啤酒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "打橫泡",
+      "tw": [
+        "攪局"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "打車",
+      "tw": [
+        "叫車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "打醬油",
+      "tw": [
+        "湊熱鬧",
+        "偶然路過"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "打錢",
+      "tw": [
+        "轉帳",
+        "匯款"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "托幼",
+      "tw": [
+        "托嬰"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "扯淡",
+      "tw": [
+        "胡扯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "批文",
+      "tw": [
+        "許可證"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "技校",
+      "tw": [
+        "職業學校"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "抑鬱",
+      "tw": [
+        "憂鬱"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "抑鬱症",
+      "tw": [
+        "憂鬱症"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "抓空字",
+      "tw": [
+        "抽空"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "抖色",
+      "tw": [
+        "遞色"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "抽風",
+      "tw": [
+        "故障",
+        "發神經"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "拉滿",
+      "tw": [
+        "十足",
+        "爆表"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "拉胯",
+      "tw": [
+        "糟糕",
+        "不理想"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "招聘",
+      "tw": [
+        "招募"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "掙錢",
+      "tw": [
+        "賺錢"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "探店",
+      "tw": [
+        "踩點",
+        "跑咖"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "探親假",
+      "tw": [
+        "省親假"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "接地氣",
+      "tw": [
+        "親民"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "插眼",
+      "tw": [
+        "之後再看"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "揭彩",
+      "tw": [
+        "剪綵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "搞事",
+      "tw": [
+        "惹事生非",
+        "鬧事"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "摩的",
+      "tw": [
+        "機車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "摳圖",
+      "tw": [
+        "去背"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "撥號工具",
+      "tw": [
+        "撥號器"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "撸鐵",
+      "tw": [
+        "健身"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "撿漏",
+      "tw": [
+        "重新利用"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "擴銷",
+      "tw": [
+        "促銷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "攤床，攤檔",
+      "tw": [
+        "攤位"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "收轉臺",
+      "tw": [
+        "轉播站"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "攻關",
+      "tw": [
+        "突破瓶頸"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "放飛自我",
+      "tw": [
+        "隨心所欲",
+        "不受拘束"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "故事片",
+      "tw": [
+        "劇情片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "救命電話",
+      "tw": [
+        "生命線"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "救生盒",
+      "tw": [
+        "急救箱"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "教程",
+      "tw": [
+        "教學"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "教齡",
+      "tw": [
+        "教學年資"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "散件",
+      "tw": [
+        "零件"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "散架",
+      "tw": [
+        "解體",
+        "撐不住"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "散粉",
+      "tw": [
+        "蜜粉"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "新建",
+      "tw": [
+        "新增",
+        "建立"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "斷檔",
+      "tw": [
+        "缺貨"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "缺售",
+      "tw": [
+        "缺貨"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "旅遊局",
+      "tw": [
+        "觀光局"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "旅遊車",
+      "tw": [
+        "遊覽車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "旅遊農業",
+      "tw": [
+        "觀光農業"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "旺銷，快銷",
+      "tw": [
+        "暢銷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "普利策獎",
+      "tw": [
+        "普利茲獎"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "智力玩具",
+      "tw": [
+        "益智玩具"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "智殘人",
+      "tw": [
+        "智障人士"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "最頂",
+      "tw": [
+        "最好",
+        "最帥",
+        "最厲害"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "有一說一",
+      "tw": [
+        "平心而論",
+        "實話實說",
+        "說真的"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "朋克",
+      "tw": [
+        "龐克"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "朋客",
+      "tw": [
+        "龐克族"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "服務員",
+      "tw": [
+        "服務生",
+        "店員"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "期房",
+      "tw": [
+        "預售屋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "本地化",
+      "tw": [
+        "在地化",
+        "道地"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "本科",
+      "tw": [
+        "大學",
+        "大學部"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "本科生",
+      "tw": [
+        "大學生"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "杯具",
+      "tw": [
+        "倒楣",
+        "慘了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "桑拿浴",
+      "tw": [
+        "三溫暖"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "條形碼",
+      "tw": [
+        "條碼"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "業餘活動",
+      "tw": [
+        "休閒活動"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "樂子人",
+      "tw": [
+        "唯恐天下不亂",
+        "愉悅犯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "樣板",
+      "tw": [
+        "模範"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "樣片",
+      "tw": [
+        "試片",
+        "試映片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "檔次",
+      "tw": [
+        "等級"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "歇班",
+      "tw": [
+        "休假"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "步行街",
+      "tw": [
+        "行人徒步區"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "步談機",
+      "tw": [
+        "對講機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "殞地品",
+      "tw": [
+        "瑕疵品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "毛腳女婿",
+      "tw": [
+        "準女婿"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "毛腳媳婦",
+      "tw": [
+        "準媳婦"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "民樂",
+      "tw": [
+        "國樂"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "氛圍感",
+      "tw": [
+        "vibe",
+        "feel(fu)"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "水門汀",
+      "tw": [
+        "水泥"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "沒可能",
+      "tw": [
+        "不可能"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "沒毛病",
+      "tw": [
+        "沒什麼問題",
+        "習慣了",
+        "很合理"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "沒誰了",
+      "tw": [
+        "無人能敵",
+        "敗給你",
+        "天兵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "河蟹",
+      "tw": [
+        "審查"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "沸點新聞",
+      "tw": [
+        "焦點新聞"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "油管",
+      "tw": [
+        "YouTube"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "治癒",
+      "tw": [
+        "療癒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "洗面奶",
+      "tw": [
+        "洗面乳"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "洗髮水",
+      "tw": [
+        "洗髮精"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "流媒體",
+      "tw": [
+        "串流媒體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "浪頭",
+      "tw": [
+        "潮流",
+        "浪潮"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "浴霸",
+      "tw": [
+        "浴室暖風機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "海量",
+      "tw": [
+        "大量",
+        "眾多"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "混血車",
+      "tw": [
+        "拼裝車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "滑坡",
+      "tw": [
+        "下滑"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "演示",
+      "tw": [
+        "範例"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "漢姆雷特",
+      "tw": [
+        "哈姆雷特"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "潑髒水",
+      "tw": [
+        "造謠"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "灰色影片",
+      "tw": [
+        "大爛片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "炊事員",
+      "tw": [
+        "廚師"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "炸魚",
+      "tw": [
+        "碾壓",
+        "虐菜",
+        "欺負新手"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "無塵粉筆",
+      "tw": [
+        "無灰粉筆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "無用信息",
+      "tw": [
+        "雜訊"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "無節操",
+      "tw": [
+        "不道德",
+        "不堪入目"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "無繩電話",
+      "tw": [
+        "無線電話"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "無語",
+      "tw": [
+        "無言"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "熱貨",
+      "tw": [
+        "搶手貨"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "熱銷",
+      "tw": [
+        "熱賣"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "營銷",
+      "tw": [
+        "行銷",
+        "推廣"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "爆冷",
+      "tw": [
+        "爆冷門"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "爆棚",
+      "tw": [
+        "十足",
+        "破表"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "爆款",
+      "tw": [
+        "人氣"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "爹味",
+      "tw": [
+        "很直男"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "牛鼻子",
+      "tw": [
+        "關鍵",
+        "要害"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "狗子",
+      "tw": [
+        "狗",
+        "朋友"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "狼性",
+      "tw": [
+        "野心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "獲得者",
+      "tw": [
+        "得主"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "玩脫了",
+      "tw": [
+        "玩過頭",
+        "過火了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "現實很骨感",
+      "tw": [
+        "現實很殘酷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "現房",
+      "tw": [
+        "成屋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "生活碎片",
+      "tw": [
+        "生活點滴"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "生物食品",
+      "tw": [
+        "天然食品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "甩賣",
+      "tw": [
+        "拋售"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "畢加索",
+      "tw": [
+        "畢卡索"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "異地戀",
+      "tw": [
+        "遠距離"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "當前",
+      "tw": [
+        "目前"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "病休",
+      "tw": [
+        "請病假"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "發光二極管",
+      "tw": [
+        "發光二極體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "發照片",
+      "tw": [
+        "傳照片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "發貨",
+      "tw": [
+        "出貨"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "白嫖",
+      "tw": [
+        "免費拿",
+        "白吃白喝"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "白班",
+      "tw": [
+        "日班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "白給",
+      "tw": [
+        "送頭"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "盒飯",
+      "tw": [
+        "便當"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "監控",
+      "tw": [
+        "監視器"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "監督電話",
+      "tw": [
+        "投訴電話"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "盲人學校",
+      "tw": [
+        "啟明學校"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "盲區",
+      "tw": [
+        "盲點"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "省心",
+      "tw": [
+        "不操心",
+        "少費心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "省流",
+      "tw": [
+        "懶人包",
+        "長話短說"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "真香",
+      "tw": [
+        "真棒",
+        "被打臉",
+        "嘴巴說不要"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "知識密集",
+      "tw": [
+        "技術密集"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "短板",
+      "tw": [
+        "缺點",
+        "缺陷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "破口",
+      "tw": [
+        "漏洞"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "破壁機",
+      "tw": [
+        "果汁機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "破碼器",
+      "tw": [
+        "解碼器"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "破防",
+      "tw": [
+        "崩潰"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "硅膠",
+      "tw": [
+        "矽膠"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "硅藻土",
+      "tw": [
+        "矽藻土"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "硬傷",
+      "tw": [
+        "致命傷",
+        "痛點"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "硬控",
+      "tw": [
+        "暈船",
+        "目不轉睛",
+        "浪費時間"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "硬核",
+      "tw": [
+        "哈扣",
+        "硬派"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "碰瓷",
+      "tw": [
+        "假車禍",
+        "敲竹槓"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "社交網站",
+      "tw": [
+        "社群網站"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "社交軟體",
+      "tw": [
+        "社群軟體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "社牛",
+      "tw": [
+        "熱情"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "票販子",
+      "tw": [
+        "黃牛"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "科技與狠活",
+      "tw": [
+        "加工食品",
+        "化學原料"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "科普",
+      "tw": [
+        "講解",
+        "分享",
+        "小常識"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "積分",
+      "tw": [
+        "點數",
+        "分數",
+        "紅利"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "積攢",
+      "tw": [
+        "累積"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "空中客車",
+      "tw": [
+        "空中巴士"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "空哥",
+      "tw": [
+        "空中少爺"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "空調鞋",
+      "tw": [
+        "氣墊鞋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "立交橋",
+      "tw": [
+        "交流道"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "站著說話不腰疼",
+      "tw": [
+        "風涼話",
+        "高談闊論"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "笑星",
+      "tw": [
+        "諧星"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "第三次浪潮",
+      "tw": [
+        "第三波"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "第三產業",
+      "tw": [
+        "服務業"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "第二職業",
+      "tw": [
+        "副業"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "第二課堂",
+      "tw": [
+        "課外活動"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "管飽",
+      "tw": [
+        "份量大",
+        "充裕",
+        "十足"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "簡裝",
+      "tw": [
+        "平裝"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "糟心",
+      "tw": [
+        "心煩",
+        "阿雜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "系列企業",
+      "tw": [
+        "關係企業"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "糾心",
+      "tw": [
+        "心疼",
+        "心寒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "糾結",
+      "tw": [
+        "執著",
+        "惦記"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "紋理",
+      "tw": [
+        "紋路",
+        "材質"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "級別",
+      "tw": [
+        "層級"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "細狗",
+      "tw": [
+        "瘦皮猴"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "絕絕子",
+      "tw": [
+        "無人能敵"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "統一意見",
+      "tw": [
+        "共識"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "統考",
+      "tw": [
+        "聯考"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "絲滑",
+      "tw": [
+        "滑順",
+        "無阻"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "綠色食品",
+      "tw": [
+        "健康食品"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "網上",
+      "tw": [
+        "網路上"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "網暴",
+      "tw": [
+        "網路霸凌"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "網民",
+      "tw": [
+        "網友"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "線下",
+      "tw": [
+        "現場",
+        "實體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "繃不住",
+      "tw": [
+        "忍不住"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "美刀",
+      "tw": [
+        "美金"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "群發",
+      "tw": [
+        "大量轉傳"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "老摳",
+      "tw": [
+        "吝嗇鬼"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "老撾",
+      "tw": [
+        "寮國"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "老視眼",
+      "tw": [
+        "老花眼"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "老鐵",
+      "tw": [
+        "哥們"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "考研",
+      "tw": [
+        "考研究所"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "聲霸",
+      "tw": [
+        "電視音響",
+        "家庭劇院"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "肉雞",
+      "tw": [
+        "飼料雞"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "肉食鴿",
+      "tw": [
+        "食用鴿"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "脫單",
+      "tw": [
+        "脫魯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "脫產",
+      "tw": [
+        "離職"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "腦庫",
+      "tw": [
+        "智囊團"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "腦洞大開",
+      "tw": [
+        "異想天開",
+        "出其不意"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "腦流失",
+      "tw": [
+        "人才外流"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "自動檔",
+      "tw": [
+        "自排"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "自定義",
+      "tw": [
+        "自訂",
+        "客製化"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "自帶",
+      "tw": [
+        "附屬",
+        "預載",
+        "本身"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "自選市場",
+      "tw": [
+        "超級市場"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "臺式計算機",
+      "tw": [
+        "桌上型電腦"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "舉報",
+      "tw": [
+        "檢舉"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "航班",
+      "tw": [
+        "班機"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "色粉",
+      "tw": [
+        "碳粉"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "艾特",
+      "tw": [
+        "@",
+        "標註",
+        "提醒"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "花帶子，黃帶",
+      "tw": [
+        "A片"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "茶點",
+      "tw": [
+        "點心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "草泥馬",
+      "tw": [
+        "羊駝"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "莫差特",
+      "tw": [
+        "莫札特"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "萌新",
+      "tw": [
+        "新手"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "萌萌噠",
+      "tw": [
+        "很可愛"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "薅羊毛",
+      "tw": [
+        "精打細算",
+        "貪小便宜",
+        "小資一波"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "薌劇",
+      "tw": [
+        "歌仔戲"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "虧賊",
+      "tw": [
+        "瘋狂",
+        "鬧",
+        "狂"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "蛋疼",
+      "tw": [
+        "頭疼",
+        "傷腦筋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "螢幕廣告",
+      "tw": [
+        "電視廣告"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "螺絲批",
+      "tw": [
+        "螺絲起子"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "衛生巾",
+      "tw": [
+        "衛生棉"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "衛生筷",
+      "tw": [
+        "免洗筷"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "衛衣",
+      "tw": [
+        "大學T",
+        "長袖棉T"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "袖標",
+      "tw": [
+        "臂章"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "被動吸菸",
+      "tw": [
+        "抽二手菸"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "補丁",
+      "tw": [
+        "修補程式",
+        "破解工具"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "評論區",
+      "tw": [
+        "留言區"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "誤區",
+      "tw": [
+        "錯誤觀念",
+        "迷思",
+        "誤解"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "說唱",
+      "tw": [
+        "饒舌"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "課時工資",
+      "tw": [
+        "鐘點費"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "謎語人",
+      "tw": [
+        "拐彎抹角",
+        "含糊不清"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "貌似",
+      "tw": [
+        "似乎",
+        "好像"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "貓膩",
+      "tw": [
+        "內幕",
+        "隱情"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "質量管理",
+      "tw": [
+        "品質管制"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "贏麻",
+      "tw": [
+        "穩贏"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "走讀生",
+      "tw": [
+        "通學生"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "走起",
+      "tw": [
+        "開始",
+        "出發",
+        "衝一波"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "超常兒童",
+      "tw": [
+        "天才兒童"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "超編",
+      "tw": [
+        "超額"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "超頂",
+      "tw": [
+        "超讚"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "趕due",
+      "tw": [
+        "趕死線"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "跟蹤服務",
+      "tw": [
+        "售後服務"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "路條",
+      "tw": [
+        "通行證"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "跳樓機",
+      "tw": [
+        "大怒神",
+        "自由落體"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "跳閘",
+      "tw": [
+        "跳電"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "踩一捧一",
+      "tw": [
+        "自抬身價"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "踩屎感拖鞋",
+      "tw": [
+        "發泡拖鞋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "蹭熱度",
+      "tw": [
+        "跟風",
+        "跟隨潮流"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "車照",
+      "tw": [
+        "行車執照"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "車間",
+      "tw": [
+        "生產線",
+        "倉庫"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "軟包裝",
+      "tw": [
+        "鋁箔包"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "輕騎",
+      "tw": [
+        "輕型機車"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "輸液",
+      "tw": [
+        "點滴"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "轉折點",
+      "tw": [
+        "轉捩點"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "辣眼睛",
+      "tw": [
+        "慘不忍睹"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "返現",
+      "tw": [
+        "回饋",
+        "現金回饋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "退出登錄",
+      "tw": [
+        "登出"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "退款",
+      "tw": [
+        "退費",
+        "退貨",
+        "退錢"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "逃生",
+      "tw": [
+        "逃學生"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "通宵電影",
+      "tw": [
+        "午夜場"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "速遞",
+      "tw": [
+        "快遞"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "進分",
+      "tw": [
+        "進帳"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "逼格",
+      "tw": [
+        "格調",
+        "情懷",
+        "氣質"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "過渡",
+      "tw": [
+        "轉場"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "過街橋",
+      "tw": [
+        "天橋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "道․瓊斯指數",
+      "tw": [
+        "道瓊指數"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "達芬奇",
+      "tw": [
+        "達文西"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "避孕套",
+      "tw": [
+        "保險套"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "那味",
+      "tw": [
+        "那種feel（fu）"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "郵遞員",
+      "tw": [
+        "郵差"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "配演",
+      "tw": [
+        "配角"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "銳評",
+      "tw": [
+        "一針見血",
+        "批評"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "銷價",
+      "tw": [
+        "售價"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "鐵哥們",
+      "tw": [
+        "哥兒們"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "長知識",
+      "tw": [
+        "學到了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "長臉",
+      "tw": [
+        "給面子",
+        "出風頭"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "門店",
+      "tw": [
+        "門市",
+        "服務據點",
+        "商店"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "開盒",
+      "tw": [
+        "肉搜"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "開門紅",
+      "tw": [
+        "好采頭"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "限流",
+      "tw": [
+        "降觸及"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "除塵器",
+      "tw": [
+        "吸塵器"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "陰陽怪氣",
+      "tw": [
+        "嘰嘰歪歪"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "集裝箱",
+      "tw": [
+        "貨櫃"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "雙擊",
+      "tw": [
+        "輕按兩下"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "雞肋",
+      "tw": [
+        "多餘",
+        "毫無意義"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "難繃",
+      "tw": [
+        "難受"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "零幀起手",
+      "tw": [
+        "出其不意",
+        "猝不及防"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "雷管",
+      "tw": [
+        "管狀炸彈"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電子陽痿",
+      "tw": [
+        "失去興趣",
+        "提不起勁"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電熱毯",
+      "tw": [
+        "電毯"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電腦紅娘",
+      "tw": [
+        "電腦擇友"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電視大學",
+      "tw": [
+        "空中大學"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "電視系列片",
+      "tw": [
+        "電視影集"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "青年宮",
+      "tw": [
+        "青年活動中心"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "面市",
+      "tw": [
+        "上市"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "面料",
+      "tw": [
+        "布料"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "頂不住",
+      "tw": [
+        "撐不住",
+        "受不了"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "頂價",
+      "tw": [
+        "天價"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "頂班",
+      "tw": [
+        "代班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "領導",
+      "tw": [
+        "上司",
+        "主管",
+        "老闆"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "領證",
+      "tw": [
+        "登記（結婚）"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "頭像",
+      "tw": [
+        "頭貼"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "頭盔",
+      "tw": [
+        "安全帽"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "風景微縮區",
+      "tw": [
+        "小人國"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "飛機乘務員",
+      "tw": [
+        "空服員"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "駕校",
+      "tw": [
+        "駕訓班"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高亮",
+      "tw": [
+        "發光",
+        "標記",
+        "亮部"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高光",
+      "tw": [
+        "打亮",
+        "人生巔峰"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高壓鍋",
+      "tw": [
+        "快鍋",
+        "壓力鍋"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高效",
+      "tw": [
+        "高效率"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高標準內銷房",
+      "tw": [
+        "高級住宅"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高檔",
+      "tw": [
+        "高級",
+        "上等"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高玩",
+      "tw": [
+        "高手"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "高等院校",
+      "tw": [
+        "大專院校"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "魔怔",
+      "tw": [
+        "著魔",
+        "走火入魔"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "魔方",
+      "tw": [
+        "魔術方塊"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "魔芋",
+      "tw": [
+        "蒟蒻"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "魚塘局",
+      "tw": [
+        "新手場"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "麻利",
+      "tw": [
+        "快"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "龍傲天",
+      "tw": [
+        "開掛仔"
+      ],
+      "note": "支語檢查器收錄",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "算力",
+      "tw": [
+        "運算力",
+        "運算能力"
+      ],
+      "note": "AI算力，台灣偏運算力",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "套殼",
+      "tw": [
+        "套皮",
+        "換殼"
+      ],
+      "note": "包裝現成模型",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "對標",
+      "tw": [
+        "對齊標竿",
+        "benchmark"
+      ],
+      "note": "職場詞",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "構建",
+      "tw": [
+        "建構",
+        "建置"
+      ],
+      "note": "build，台灣偏建置",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "實例化",
+      "tw": [
+        "實體化",
+        "建立執行個體"
+      ],
+      "note": "instantiate",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "開箱即用",
+      "tw": [
+        "拿來就能用"
+      ],
+      "note": "out-of-the-box 中國譯法",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "提示詞工程",
+      "tw": [
+        "提示工程"
+      ],
+      "note": "prompt engineering",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "推理",
+      "tw": [
+        "推論"
+      ],
+      "note": "inference，台灣學界偏推論",
+      "source": "策展-AIcoding"
+    },
+    {
+      "zh": "提交",
+      "tw": [
+        "送出"
+      ],
+      "note": "程式術語(cn2tw4programmer)",
+      "source": "cn2tw"
+    },
+    {
+      "zh": "B超",
+      "tw": [
+        "超音波"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丁丁當",
+      "tw": [
+        "叮叮噹"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丁丁當當",
+      "tw": [
+        "叮叮噹噹"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丁型肝炎",
+      "tw": [
+        "D型肝炎"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丁當",
+      "tw": [
+        "叮噹"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丁肝",
+      "tw": [
+        "D肝"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丙型肝炎",
+      "tw": [
+        "C型肝炎"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丙氨酸",
+      "tw": [
+        "丙胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "丙肝",
+      "tw": [
+        "C肝"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "乍得",
+      "tw": [
+        "查德"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "乙型肝炎",
+      "tw": [
+        "B型肝炎"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "乙肝",
+      "tw": [
+        "B肝"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "也門",
+      "tw": [
+        "葉門"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "二噁英",
+      "tw": [
+        "戴奧辛"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "亨德爾",
+      "tw": [
+        "韓德爾"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "亮氨酸",
+      "tw": [
+        "白胺酸",
+        "亮胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "他汀類",
+      "tw": [
+        "史他汀類"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "仙童半導體",
+      "tw": [
+        "快捷半導體"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "代謝綜合徵",
+      "tw": [
+        "代謝症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "以太網絡",
+      "tw": [
+        "乙太網路"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "以太網路",
+      "tw": [
+        "乙太網路"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "以太網路由器",
+      "tw": [
+        "乙太網路路由器",
+        "乙太網路由器"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伊利諾伊",
+      "tw": [
+        "伊利諾"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伊利諾伊州",
+      "tw": [
+        "伊利諾州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伯克希爾-哈撒韋",
+      "tw": [
+        "波克夏海瑟威"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伯克希爾-哈撒韋公司",
+      "tw": [
+        "波克夏海瑟威公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伯克希爾哈撒韋",
+      "tw": [
+        "波克夏海瑟威"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伯克希爾哈撒韋公司",
+      "tw": [
+        "波克夏海瑟威公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "伯利茲",
+      "tw": [
+        "貝里斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "佐治亞",
+      "tw": [
+        "喬治亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "佐治亞州",
+      "tw": [
+        "喬治亞州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "佛得角",
+      "tw": [
+        "維德角"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉何馬",
+      "tw": [
+        "奧克拉荷馬"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉何馬城",
+      "tw": [
+        "奧克拉荷馬城"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉何馬州",
+      "tw": [
+        "奧克拉荷馬州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉何馬市",
+      "tw": [
+        "奧克拉荷馬市"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉荷馬",
+      "tw": [
+        "奧克拉荷馬"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉荷馬城",
+      "tw": [
+        "奧克拉荷馬城"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉荷馬州",
+      "tw": [
+        "奧克拉荷馬州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄克拉荷馬市",
+      "tw": [
+        "奧克拉荷馬市"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄勒岡",
+      "tw": [
+        "奧勒岡"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "俄勒岡州",
+      "tw": [
+        "奧勒岡州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "借記卡",
+      "tw": [
+        "簽帳金融卡"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "傅里葉",
+      "tw": [
+        "傅立葉"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "元音",
+      "tw": [
+        "母音"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "克列門蒂",
+      "tw": [
+        "克萊門第"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "克羅地亞",
+      "tw": [
+        "克羅埃西亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "克萊門蒂",
+      "tw": [
+        "克萊門第"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "公元",
+      "tw": [
+        "西元"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "凱奇",
+      "tw": [
+        "凱吉"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "列支敦士登",
+      "tw": [
+        "列支敦斯登"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "利比里亞",
+      "tw": [
+        "賴比瑞亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "利蓋蒂",
+      "tw": [
+        "利蓋悌"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "前列腺",
+      "tw": [
+        "攝護腺"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "加納",
+      "tw": [
+        "迦納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "加蓬",
+      "tw": [
+        "加彭"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "勃拉姆斯",
+      "tw": [
+        "布拉姆斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "勳伯格",
+      "tw": [
+        "荀白克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "北卡羅來納",
+      "tw": [
+        "北卡羅萊納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "北卡羅來納州",
+      "tw": [
+        "北卡羅萊納州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "北馬里亞納",
+      "tw": [
+        "北馬利安納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "北馬里亞納羣島",
+      "tw": [
+        "北馬利安納群島"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "南卡羅來納",
+      "tw": [
+        "南卡羅萊納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "南卡羅來納州",
+      "tw": [
+        "南卡羅萊納州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "博凱里尼",
+      "tw": [
+        "波凱里尼"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "博茨瓦納",
+      "tw": [
+        "波札那"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "卡塔爾",
+      "tw": [
+        "卡達"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "危地馬拉",
+      "tw": [
+        "瓜地馬拉"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "厄瓜多爾",
+      "tw": [
+        "厄瓜多"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "厄立特里亞",
+      "tw": [
+        "厄利垂亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "古爾德",
+      "tw": [
+        "顧爾德"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "可執行文件",
+      "tw": [
+        "執行檔"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "吉布堤",
+      "tw": [
+        "吉布地"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "咖喱",
+      "tw": [
+        "咖哩"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "哈薩克斯坦",
+      "tw": [
+        "哈薩克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "哥斯達黎加",
+      "tw": [
+        "哥斯大黎加"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "唐氏綜合徵",
+      "tw": [
+        "唐氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "唐氏綜合症",
+      "tw": [
+        "唐氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "圖瓦盧",
+      "tw": [
+        "吐瓦魯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "圖雷特綜合徵",
+      "tw": [
+        "妥瑞氏症",
+        "妥瑞症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "土庫曼斯坦",
+      "tw": [
+        "土庫曼"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "圭亞那",
+      "tw": [
+        "蓋亞那"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "坦桑尼亞",
+      "tw": [
+        "坦尚尼亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "埃克森美孚",
+      "tw": [
+        "艾克森美孚"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "埃塞俄比亞",
+      "tw": [
+        "衣索比亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "埃爾加",
+      "tw": [
+        "艾爾加"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "基里巴斯",
+      "tw": [
+        "吉里巴斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "塔吉克斯坦",
+      "tw": [
+        "塔吉克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "塞拉利昂",
+      "tw": [
+        "獅子山"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "塞浦路斯",
+      "tw": [
+        "塞普勒斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "塞舌爾",
+      "tw": [
+        "塞席爾"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "多動症",
+      "tw": [
+        "過動症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "多囊卵巢綜合徵",
+      "tw": [
+        "多囊性卵巢症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "多尼采蒂",
+      "tw": [
+        "多尼采第"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "多米尼加",
+      "tw": [
+        "多明尼加"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "大衆公司",
+      "tw": [
+        "福斯汽車"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "大衆汽車",
+      "tw": [
+        "福斯汽車"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "大衆汽車集團",
+      "tw": [
+        "福斯汽車集團"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "大衆集團",
+      "tw": [
+        "福斯集團"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "天冬氨酸",
+      "tw": [
+        "天冬胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "天冬酰胺",
+      "tw": [
+        "天冬醯胺"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "天門冬氨酸",
+      "tw": [
+        "天門冬胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "天門冬酰胺",
+      "tw": [
+        "天門冬醯胺"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "奔馳",
+      "tw": [
+        "賓士"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "奧巴馬",
+      "tw": [
+        "歐巴馬"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "奧爾夫",
+      "tw": [
+        "奧福"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "奶酪",
+      "tw": [
+        "乳酪"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "威斯康星",
+      "tw": [
+        "威斯康辛"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "威斯康星州",
+      "tw": [
+        "威斯康辛州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "孕酮",
+      "tw": [
+        "黃體素"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "孤獨症",
+      "tw": [
+        "自閉症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "安提瓜和巴布達",
+      "tw": [
+        "安地卡及巴布達"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏函數",
+      "tw": [
+        "巨集函式"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏命令",
+      "tw": [
+        "巨集命令"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏定義",
+      "tw": [
+        "巨集定義"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏展開",
+      "tw": [
+        "巨集展開"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏指令",
+      "tw": [
+        "巨集指令"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏替換",
+      "tw": [
+        "巨集替換"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏編程",
+      "tw": [
+        "巨集程式設計"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏處理",
+      "tw": [
+        "巨集處理"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏語言",
+      "tw": [
+        "巨集語言"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "宏調用",
+      "tw": [
+        "巨集呼叫"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "室顫",
+      "tw": [
+        "心室顫動"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "密歇根",
+      "tw": [
+        "密西根"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "密歇根州",
+      "tw": [
+        "密西根州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "寶潔",
+      "tw": [
+        "寶僑"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "寶潔公司",
+      "tw": [
+        "寶僑公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "寶馬集團",
+      "tw": [
+        "BMW集團"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "對乙酰氨基酚",
+      "tw": [
+        "對乙醯胺基酚",
+        "乙醯胺酚"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "尼日利亞",
+      "tw": [
+        "奈及利亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "尼日爾",
+      "tw": [
+        "尼日"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "岡比亞",
+      "tw": [
+        "甘比亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "巴巴多斯",
+      "tw": [
+        "巴貝多"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "巴布亞新幾內亞",
+      "tw": [
+        "巴布亞紐幾內亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布列茲",
+      "tw": [
+        "布萊茲"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布基納法索",
+      "tw": [
+        "布吉納法索"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布里頓",
+      "tw": [
+        "布瑞頓"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布隆迪",
+      "tw": [
+        "蒲隆地"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布雷頓",
+      "tw": [
+        "布列敦"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布雷頓森林",
+      "tw": [
+        "布列敦森林"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "布雷頓森林體系",
+      "tw": [
+        "布列敦森林制度"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "帕勞",
+      "tw": [
+        "帛琉"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "帕金森病",
+      "tw": [
+        "帕金森氏症",
+        "巴金森氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "幾內亞比紹",
+      "tw": [
+        "幾內亞比索"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "幾率",
+      "tw": [
+        "機率"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "庫欣綜合徵",
+      "tw": [
+        "庫欣氏症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "康涅狄格",
+      "tw": [
+        "康乃狄克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "康涅狄格州",
+      "tw": [
+        "康乃狄克州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "弗吉尼亞",
+      "tw": [
+        "維吉尼亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "弗吉尼亞州",
+      "tw": [
+        "維吉尼亞州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "強生公司",
+      "tw": [
+        "嬌生公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "彙編器",
+      "tw": [
+        "組譯器"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "彩超",
+      "tw": [
+        "彩色超音波"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "德彪西",
+      "tw": [
+        "德布西"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "德沃夏克",
+      "tw": [
+        "德弗札克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "心梗",
+      "tw": [
+        "心肌梗塞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "心肌梗死",
+      "tw": [
+        "心肌梗塞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "急性呼吸窘迫綜合徵",
+      "tw": [
+        "急性呼吸窘迫症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "意大利",
+      "tw": [
+        "義大利"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "慢性疲勞綜合徵",
+      "tw": [
+        "慢性疲勞症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "戊型肝炎",
+      "tw": [
+        "E型肝炎"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "戊肝",
+      "tw": [
+        "E肝"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "戒斷綜合徵",
+      "tw": [
+        "戒斷症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "戴留斯",
+      "tw": [
+        "戴流士"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "房撲",
+      "tw": [
+        "心房撲動"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "房顫",
+      "tw": [
+        "心房顫動"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "所羅門羣島",
+      "tw": [
+        "索羅門群島"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "抽動穢語綜合徵",
+      "tw": [
+        "妥瑞氏症",
+        "妥瑞症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "拉洛",
+      "tw": [
+        "拉羅"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "拉莫",
+      "tw": [
+        "拉摩"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "拉赫瑪尼諾夫",
+      "tw": [
+        "拉赫曼尼諾夫"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "撲熱息痛",
+      "tw": [
+        "對乙醯胺基酚"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "文萊",
+      "tw": [
+        "汶萊"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯克里亞賓",
+      "tw": [
+        "史克里亞賓"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯卡拉蒂",
+      "tw": [
+        "史卡拉第"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯威士蘭",
+      "tw": [
+        "史瓦濟蘭"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯洛文尼亞",
+      "tw": [
+        "斯洛維尼亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯特拉文斯基",
+      "tw": [
+        "史特拉汶斯基"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "斯美塔那",
+      "tw": [
+        "史麥塔納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "新澤西",
+      "tw": [
+        "紐澤西"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "新澤西州",
+      "tw": [
+        "紐澤西州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "新罕布什爾",
+      "tw": [
+        "新罕布夏"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "新罕布什爾州",
+      "tw": [
+        "新罕布夏州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "新西蘭",
+      "tw": [
+        "紐西蘭"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "方便麪",
+      "tw": [
+        "泡麵",
+        "速食麵"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "施托克豪森",
+      "tw": [
+        "史托克豪森"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "施特勞斯",
+      "tw": [
+        "史特勞斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "普羅科菲耶夫",
+      "tw": [
+        "普羅高菲夫"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "柏遼茲",
+      "tw": [
+        "白遼士"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格什溫",
+      "tw": [
+        "蓋希文"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格拉斯",
+      "tw": [
+        "葛拉斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格林卡",
+      "tw": [
+        "葛令卡"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格林納達",
+      "tw": [
+        "格瑞那達"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格里格",
+      "tw": [
+        "葛利格"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格魯吉亞",
+      "tw": [
+        "喬治亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "格魯吉亞共和國",
+      "tw": [
+        "喬治亞共和國"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "梅西安",
+      "tw": [
+        "梅湘"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "概率",
+      "tw": [
+        "機率"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "榴蓮",
+      "tw": [
+        "榴槤"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "構造器",
+      "tw": [
+        "建構子"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "欣德米特",
+      "tw": [
+        "興德密特"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "歐拉",
+      "tw": [
+        "尤拉"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "歐萊雅",
+      "tw": [
+        "萊雅"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "歐萊雅集團",
+      "tw": [
+        "萊雅集團"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "正電子",
+      "tw": [
+        "正子"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "正電子發射計算機斷層",
+      "tw": [
+        "正子斷層造影"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "毛里塔尼亞",
+      "tw": [
+        "茅利塔尼亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "毛里求斯",
+      "tw": [
+        "模里西斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "氨基酸",
+      "tw": [
+        "胺基酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "氨苄西林",
+      "tw": [
+        "安比西林"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "沃恩·威廉斯",
+      "tw": [
+        "佛漢·威廉斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "沃爾頓",
+      "tw": [
+        "華爾頓"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "沙特阿拉伯",
+      "tw": [
+        "沙烏地阿拉伯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "沙特阿美",
+      "tw": [
+        "沙烏地阿美"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "沙特阿美公司",
+      "tw": [
+        "沙烏地阿美公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "波斯尼亞黑塞哥維那",
+      "tw": [
+        "波士尼亞赫塞哥維納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "津巴布韋",
+      "tw": [
+        "辛巴威"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "洪都拉斯",
+      "tw": [
+        "宏都拉斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "海菲茨",
+      "tw": [
+        "海飛茲"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "涼菜",
+      "tw": [
+        "冷盤"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "溫納圖萬",
+      "tw": [
+        "那杜"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "漢坦病毒",
+      "tw": [
+        "漢他病毒"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "潘德列茨基",
+      "tw": [
+        "潘德列茲基"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "烏茲別克斯坦",
+      "tw": [
+        "烏茲別克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "特拉華",
+      "tw": [
+        "德拉瓦"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "特拉華州",
+      "tw": [
+        "德拉瓦州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "特立尼達和多巴哥",
+      "tw": [
+        "千里達及托巴哥"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "獲得性免疫缺陷綜合徵",
+      "tw": [
+        "後天免疫缺乏症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "珀塞爾",
+      "tw": [
+        "普賽爾"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "瑙魯",
+      "tw": [
+        "諾魯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "瓦努阿圖",
+      "tw": [
+        "萬那杜"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "瓦格納",
+      "tw": [
+        "華格納"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "甘氨酸",
+      "tw": [
+        "甘胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "甲型肝炎",
+      "tw": [
+        "A型肝炎"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "甲硫氨酸",
+      "tw": [
+        "甲硫胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "甲肝",
+      "tw": [
+        "A肝"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "異亮氨酸",
+      "tw": [
+        "異白胺酸",
+        "異亮胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "癡呆症",
+      "tw": [
+        "失智症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "白細胞",
+      "tw": [
+        "白血球"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "的士",
+      "tw": [
+        "計程車"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "盧旺達",
+      "tw": [
+        "盧安達"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "睡眠呼吸暫停綜合徵",
+      "tw": [
+        "睡眠呼吸中止症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "禁用",
+      "tw": [
+        "停用"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "福雷",
+      "tw": [
+        "佛瑞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "科摩羅",
+      "tw": [
+        "葛摩"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "科普蘭",
+      "tw": [
+        "柯普蘭"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "科特迪瓦",
+      "tw": [
+        "象牙海岸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "科雷利",
+      "tw": [
+        "柯雷利"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "移動數據",
+      "tw": [
+        "行動數據"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "穀氨酰胺",
+      "tw": [
+        "麩醯胺酸",
+        "穀氨醯胺"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "穀氨酸",
+      "tw": [
+        "麩胺酸",
+        "穀胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "穆索爾斯基",
+      "tw": [
+        "穆索斯基"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "空氣淨化器",
+      "tw": [
+        "空氣清淨機"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "突尼斯",
+      "tw": [
+        "突尼西亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "精氨酸",
+      "tw": [
+        "精胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "紅細胞",
+      "tw": [
+        "紅血球"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "納米",
+      "tw": [
+        "奈米"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "索馬里",
+      "tw": [
+        "索馬利亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "組氨酸",
+      "tw": [
+        "組胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "絲氨酸",
+      "tw": [
+        "絲胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "經前期綜合徵",
+      "tw": [
+        "經前症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "維瓦爾第",
+      "tw": [
+        "韋瓦第"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "纈氨酸",
+      "tw": [
+        "纈胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "羅得島",
+      "tw": [
+        "羅德島"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "羅得島州",
+      "tw": [
+        "羅德島州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "美屬維爾京羣島",
+      "tw": [
+        "美屬維京群島"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "老人癡呆症",
+      "tw": [
+        "老年失智症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "老年性癡呆症",
+      "tw": [
+        "老年失智症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "老年癡呆症",
+      "tw": [
+        "老年失智症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "聖基茨和尼維斯",
+      "tw": [
+        "聖克里斯多福及尼維斯"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "聖文森特和格林納丁斯",
+      "tw": [
+        "聖文森及格瑞那丁"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "聖盧西亞",
+      "tw": [
+        "聖露西亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "聖馬力諾",
+      "tw": [
+        "聖馬利諾"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "肖斯塔科維奇",
+      "tw": [
+        "蕭士塔高維契"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "肖邦",
+      "tw": [
+        "蕭邦"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "肯尼亞",
+      "tw": [
+        "肯亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "胰腺",
+      "tw": [
+        "胰臟"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "胱氨酸",
+      "tw": [
+        "胱胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "脯氨酸",
+      "tw": [
+        "脯胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "腎病綜合徵",
+      "tw": [
+        "腎病症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "腕管綜合徵",
+      "tw": [
+        "腕隧道症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "腦梗",
+      "tw": [
+        "腦梗塞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "腦梗死",
+      "tw": [
+        "腦梗塞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "腸易激綜合徵",
+      "tw": [
+        "大腸激躁症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "自行車",
+      "tw": [
+        "腳踏車"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "臺積公司",
+      "tw": [
+        "台積公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "臺積電",
+      "tw": [
+        "台積電"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "色氨酸",
+      "tw": [
+        "色胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "艾奧瓦",
+      "tw": [
+        "愛荷華"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "艾奧瓦州",
+      "tw": [
+        "愛荷華州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "艾滋病",
+      "tw": [
+        "愛滋病"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "艾滋病人",
+      "tw": [
+        "愛滋病患"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "艾滋病毒",
+      "tw": [
+        "愛滋病毒"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "苯丙氨酸",
+      "tw": [
+        "苯丙胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "英偉達",
+      "tw": [
+        "輝達"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "莫扎特",
+      "tw": [
+        "莫札特"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "莫桑比克",
+      "tw": [
+        "莫三比克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "萊索托",
+      "tw": [
+        "賴索托"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "萬象",
+      "tw": [
+        "永珍"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "蒂佩特",
+      "tw": [
+        "提佩特"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "薩拉薩蒂",
+      "tw": [
+        "薩拉沙泰"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "薩蒂",
+      "tw": [
+        "薩提"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "蘇氨酸",
+      "tw": [
+        "蘇胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "蘇里南",
+      "tw": [
+        "蘇利南"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "血紅蛋白",
+      "tw": [
+        "血紅素"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "西弗吉尼亞",
+      "tw": [
+        "西維吉尼亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "西弗吉尼亞州",
+      "tw": [
+        "西維吉尼亞州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "西貝柳斯",
+      "tw": [
+        "西貝流士"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "計算機斷層",
+      "tw": [
+        "電腦斷層"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "詞組",
+      "tw": [
+        "片語"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "調製",
+      "tw": [
+        "調變"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "貝利尼",
+      "tw": [
+        "貝里尼"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "貝寧",
+      "tw": [
+        "貝南"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "賴希",
+      "tw": [
+        "萊許"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "賴氨酸",
+      "tw": [
+        "離胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "贊比亞",
+      "tw": [
+        "尚比亞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "超聲波",
+      "tw": [
+        "超音波"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "蹦極",
+      "tw": [
+        "高空彈跳"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "輔音",
+      "tw": [
+        "子音"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "酪氨酸",
+      "tw": [
+        "酪胺酸"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "里姆斯基-科薩科夫",
+      "tw": [
+        "林姆斯基-高沙可夫"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "門德爾松",
+      "tw": [
+        "孟德爾頌"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "開市客",
+      "tw": [
+        "好市多"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "開市客公司",
+      "tw": [
+        "好市多公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阻滯劑",
+      "tw": [
+        "阻斷劑"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿司匹林",
+      "tw": [
+        "阿斯匹靈"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿塞拜疆",
+      "tw": [
+        "亞塞拜然"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿拉伯聯合酋長國",
+      "tw": [
+        "阿拉伯聯合大公國"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿斯利康",
+      "tw": [
+        "阿斯特捷利康"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿斯利康公司",
+      "tw": [
+        "阿斯特捷利康公司"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿爾茨海默氏症",
+      "tw": [
+        "阿茲海默氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿爾茨海默病",
+      "tw": [
+        "阿茲海默症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "阿爾茨海默症",
+      "tw": [
+        "阿茲海默症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "雅納切克",
+      "tw": [
+        "楊納傑克"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "雷諾綜合徵",
+      "tw": [
+        "雷諾氏症候群"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "霍洛維茨",
+      "tw": [
+        "霍洛維茲"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "韋伯恩",
+      "tw": [
+        "韋本"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "香農",
+      "tw": [
+        "夏農"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬凡綜合徵",
+      "tw": [
+        "馬凡氏症候群",
+        "馬凡氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬方綜合徵",
+      "tw": [
+        "馬凡氏症候群",
+        "馬凡氏症"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬爾代夫",
+      "tw": [
+        "馬爾地夫"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬薩諸塞",
+      "tw": [
+        "麻薩諸塞"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬薩諸塞州",
+      "tw": [
+        "麻薩諸塞州"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "馬里共和國",
+      "tw": [
+        "馬利共和國"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "高級設置",
+      "tw": [
+        "進階設定"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "高級選項",
+      "tw": [
+        "進階選項"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "鮑羅丁",
+      "tw": [
+        "包羅定"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "黃體酮",
+      "tw": [
+        "黃體素"
+      ],
+      "note": "OpenCC 台灣慣用詞",
+      "source": "opencc-TW"
+    },
+    {
+      "zh": "xx年/00後",
+      "tw": [
+        "直接講年份/幾年級或o世代"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "不科學",
+      "tw": [
+        "不合理、違反原理、不直覺"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "中國台灣",
+      "tw": [
+        "台灣"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "主人公",
+      "tw": [
+        "主角"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "乾/油皮",
+      "tw": [
+        "乾/油肌"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "北京時間",
+      "tw": [
+        "中原標準時間"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "國企",
+      "tw": [
+        "國營事業"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "富二代",
+      "tw": [
+        "小開"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "小帳",
+      "tw": [
+        "小費"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "小號",
+      "tw": [
+        "分身帳號"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "山寨",
+      "tw": [
+        "仿冒"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "巨大",
+      "tw": [
+        "龐大"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "差評",
+      "tw": [
+        "負評"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "很好的",
+      "tw": [
+        "妥善地"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "很火",
+      "tw": [
+        "很紅"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "很絕",
+      "tw": [
+        "超屌/超扯"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "很頂",
+      "tw": [
+        "很讚"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "政治避難",
+      "tw": [
+        "政治庇護"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "斷檔、缺售",
+      "tw": [
+        "缺貨"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "朋友圈",
+      "tw": [
+        "交友圈"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "武術",
+      "tw": [
+        "國術"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "殘次品",
+      "tw": [
+        "瑕疵品"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "毛玻璃",
+      "tw": [
+        "磨砂玻璃"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "民政局",
+      "tw": [
+        "戶政事務所"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "港客",
+      "tw": [
+        "香港觀光客"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "湯加",
+      "tw": [
+        "東加"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "特別",
+      "tw": [
+        "很"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "直白",
+      "tw": [
+        "直接、明確"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "直觀",
+      "tw": [
+        "直覺"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "科研",
+      "tw": [
+        "直接講領域"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "臨時戶口",
+      "tw": [
+        "流動戶口"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "賣大號，賣大戶",
+      "tw": [
+        "量販"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "預製菜",
+      "tw": [
+        "調理包、微波食品、冷凍食品"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "馬拉維",
+      "tw": [
+        "馬拉威"
+      ],
+      "note": "aronhack 收錄",
+      "source": "aronhack"
+    },
+    {
+      "zh": "土豆條",
+      "tw": [
+        "薯條"
+      ],
+      "note": "中國『土豆條』=薯條；台灣講薯條。注意『土豆』在台灣是花生，勿混",
+      "source": "支語檢查器"
+    },
+    {
+      "zh": "悉尼",
+      "tw": [
+        "雪梨"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "戛納",
+      "tw": [
+        "坎城"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "沙特",
+      "tw": [
+        "沙烏地阿拉伯"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "朝鮮",
+      "tw": [
+        "北韓"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "特朗普",
+      "tw": [
+        "川普"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "普京",
+      "tw": [
+        "普丁"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "布什",
+      "tw": [
+        "布希"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "戈爾巴喬夫",
+      "tw": [
+        "戈巴契夫"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "喬布斯",
+      "tw": [
+        "賈伯斯"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "比爾蓋茨",
+      "tw": [
+        "比爾蓋茲"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "貝克漢姆",
+      "tw": [
+        "貝克漢"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "克林頓",
+      "tw": [
+        "柯林頓"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "馬拉多納",
+      "tw": [
+        "馬拉度納"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "大眾汽車",
+      "tw": [
+        "福斯汽車"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "雷克薩斯",
+      "tw": [
+        "凌志"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    },
+    {
+      "zh": "強生",
+      "tw": [
+        "嬌生"
+      ],
+      "note": "兩岸人名/地名/品牌譯名",
+      "source": "curated-name"
+    }
+  ],
+  "context": [
+    {
+      "zh": "質量",
+      "tw": [
+        "品質"
+      ],
+      "note": "台灣『質量』=物理的 mass(質量守恆)；表 quality 要用『品質』。若你指品質→改『品質』；若真在講物理質量→維持別改。"
+    },
+    {
+      "zh": "水平",
+      "tw": [
+        "水準"
+      ],
+      "note": "台灣『水平』=horizontal(水平線/水平方向)；表『程度高低』要用『水準』。看你哪個意思。"
+    },
+    {
+      "zh": "土豆",
+      "tw": [
+        "馬鈴薯"
+      ],
+      "note": "同名異實，看語境",
+      "source": "reviewed"
+    }
+  ],
+  "whitelist": [
+    "社群",
+    "渲染",
+    "部署",
+    "繼承",
+    "置頂",
+    "彈幕",
+    "人設",
+    "資訊",
+    "訊息",
+    "影片",
+    "螢幕",
+    "軟體",
+    "硬體",
+    "演算法",
+    "視訊",
+    "品質",
+    "網際網路",
+    "資料庫",
+    "伺服器",
+    "記憶體",
+    "原始碼",
+    "程式碼",
+    "執行緒",
+    "解析度",
+    "部落格",
+    "部落客",
+    "帳號",
+    "最佳化",
+    "使用者",
+    "浮水印",
+    "圖靈機",
+    "應用",
+    "使用",
+    "方法",
+    "系統",
+    "過程",
+    "功能",
+    "服務",
+    "互聯",
+    "聯網",
+    "比特幣",
+    "地址",
+    "支持者",
+    "訪問",
+    "彙編",
+    "模擬",
+    "支持",
+    "數字"
+  ]
+}
